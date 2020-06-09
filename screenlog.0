@@ -1,0 +1,3018 @@
+Training loss at step 100: 3.4001970291137695, accuracy: 0.36417078971862793
+Training loss at step 200: 2.6625492572784424, accuracy: 0.45413556694984436
+Training loss at step 300: 2.317284107208252, accuracy: 0.507267415523529
+Training loss at epoch 0: 2.2736124992370605
+Training accuracy at epoch 0: 0.513867199420929
+[I] Epoch 0 :  finished in 43.768 s.
+[I] Validating at epoch 0 started.
+Validation loss at epoch 0: 4.202358722686768
+Validation accuracy at epoch 0: 0.05267423018813133
+[I] Validating at epoch 0 finished in 3.140 s.
+Save model ... 
+[I] Epoch 1 :  started.
+Training loss at step 0: 1.1197476387023926, accuracy: 0.71875
+Training loss at step 100: 1.1645400524139404, accuracy: 0.7032796740531921
+Training loss at step 200: 1.0830103158950806, accuracy: 0.7103545069694519
+Training loss at step 300: 1.018379807472229, accuracy: 0.7237333655357361
+Training loss at epoch 1: 1.0116965770721436
+Training accuracy at epoch 1: 0.7259765863418579
+[I] Epoch 1 :  finished in 42.565 s.
+[I] Validating at epoch 1 started.
+Validation loss at epoch 1: 2.000098466873169
+Validation accuracy at epoch 1: 0.4380064904689789
+[I] Validating at epoch 1 finished in 3.143 s.
+Save model ... 
+[I] Epoch 2 :  started.
+Training loss at step 0: 0.8279976844787598, accuracy: 0.8125
+Training loss at step 100: 0.7691966891288757, accuracy: 0.7803217768669128
+Training loss at step 200: 0.7144057750701904, accuracy: 0.7922885417938232
+Training loss at step 300: 0.7510406374931335, accuracy: 0.7841569781303406
+Training loss at epoch 2: 0.7521485090255737
+Training accuracy at epoch 2: 0.783398449420929
+[I] Epoch 2 :  finished in 42.221 s.
+[I] Validating at epoch 2 started.
+Validation loss at epoch 2: 1.9781595468521118
+Validation accuracy at epoch 2: 0.4489465057849884
+[I] Validating at epoch 2 finished in 2.995 s.
+Save model ... 
+[I] Epoch 3 :  started.
+Training loss at step 0: 0.9772512316703796, accuracy: 0.71875
+Training loss at step 100: 0.6614388227462769, accuracy: 0.8044554591178894
+Training loss at step 200: 0.6168102622032166, accuracy: 0.8148320913314819
+Training loss at step 300: 0.576686680316925, accuracy: 0.8239202499389648
+Training loss at epoch 3: 0.5696513652801514
+Training accuracy at epoch 3: 0.8251953125
+[I] Epoch 3 :  finished in 42.332 s.
+[I] Validating at epoch 3 started.
+Validation loss at epoch 3: 1.1385444402694702
+Validation accuracy at epoch 3: 0.6924635171890259
+[I] Validating at epoch 3 finished in 3.172 s.
+Save model ... 
+[I] Epoch 4 :  started.
+Training loss at step 0: 0.17681628465652466, accuracy: 0.9375
+Training loss at step 100: 0.45557689666748047, accuracy: 0.8620049357414246
+Training loss at step 200: 0.4495599865913391, accuracy: 0.86427241563797
+Training loss at step 300: 0.4437720775604248, accuracy: 0.8635797500610352
+Training loss at epoch 4: 0.44036316871643066
+Training accuracy at epoch 4: 0.864941418170929
+[I] Epoch 4 :  finished in 42.811 s.
+[I] Validating at epoch 4 started.
+Validation loss at epoch 4: 0.9791607856750488
+Validation accuracy at epoch 4: 0.7297406792640686
+[I] Validating at epoch 4 finished in 3.150 s.
+Save model ... 
+[I] Epoch 5 :  started.
+Training loss at step 0: 0.21419918537139893, accuracy: 0.90625
+Training loss at step 100: 0.431179940700531, accuracy: 0.8641707897186279
+Training loss at step 200: 0.40065625309944153, accuracy: 0.8743780851364136
+Training loss at step 300: 0.405990332365036, accuracy: 0.8729236125946045
+Training loss at epoch 5: 0.40286755561828613
+Training accuracy at epoch 5: 0.873339831829071
+[I] Epoch 5 :  finished in 42.316 s.
+[I] Validating at epoch 5 started.
+Validation loss at epoch 5: 1.1466740369796753
+Validation accuracy at epoch 5: 0.6726093888282776
+[I] Validating at epoch 5 finished in 3.088 s.
+[I] Epoch 6 :  started.
+Training loss at step 0: 0.6470009088516235, accuracy: 0.78125
+Training loss at step 100: 0.3466070592403412, accuracy: 0.8917078971862793
+Training loss at step 200: 0.4001004695892334, accuracy: 0.8757773637771606
+Training loss at step 300: 0.38940438628196716, accuracy: 0.8786337375640869
+Training loss at epoch 6: 0.3880235552787781
+Training accuracy at epoch 6: 0.8792968988418579
+[I] Epoch 6 :  finished in 42.463 s.
+[I] Validating at epoch 6 started.
+Validation loss at epoch 6: 1.7750201225280762
+Validation accuracy at epoch 6: 0.569692075252533
+[I] Validating at epoch 6 finished in 3.122 s.
+[I] Epoch 7 :  started.
+Training loss at step 0: 0.22783811390399933, accuracy: 0.9375
+Training loss at step 100: 0.32071176171302795, accuracy: 0.8969678282737732
+Training loss at step 200: 0.32096555829048157, accuracy: 0.8962997794151306
+Training loss at step 300: 0.30412328243255615, accuracy: 0.9027200937271118
+Training loss at epoch 7: 0.3027920424938202
+Training accuracy at epoch 7: 0.903124988079071
+[I] Epoch 7 :  finished in 42.497 s.
+[I] Validating at epoch 7 started.
+Validation loss at epoch 7: 0.783301591873169
+Validation accuracy at epoch 7: 0.7840356826782227
+[I] Validating at epoch 7 finished in 3.126 s.
+Save model ... 
+[I] Epoch 8 :  started.
+Training loss at step 0: 0.4987374246120453, accuracy: 0.84375
+Training loss at step 100: 0.23895834386348724, accuracy: 0.9235767126083374
+Training loss at step 200: 0.2529636323451996, accuracy: 0.9191542267799377
+Training loss at step 300: 0.25479423999786377, accuracy: 0.9164243936538696
+Training loss at epoch 8: 0.25633373856544495
+Training accuracy at epoch 8: 0.9154297113418579
+[I] Epoch 8 :  finished in 41.991 s.
+[I] Validating at epoch 8 started.
+Validation loss at epoch 8: 1.283059000968933
+Validation accuracy at epoch 8: 0.6815235018730164
+[I] Validating at epoch 8 finished in 3.141 s.
+[I] Epoch 9 :  started.
+Training loss at step 0: 0.20502133667469025, accuracy: 0.9375
+Training loss at step 100: 0.23120500147342682, accuracy: 0.9217203259468079
+Training loss at step 200: 0.23377534747123718, accuracy: 0.9238184094429016
+Training loss at step 300: 0.24504674971103668, accuracy: 0.917981743812561
+Training loss at epoch 9: 0.24579870700836182
+Training accuracy at epoch 9: 0.918261706829071
+[I] Epoch 9 :  finished in 42.650 s.
+[I] Validating at epoch 9 started.
+Validation loss at epoch 9: 1.641312599182129
+Validation accuracy at epoch 9: 0.6450567245483398
+[I] Validating at epoch 9 finished in 3.072 s.
+[I] Epoch 10 :  started.
+Training loss at step 0: 0.21337629854679108, accuracy: 0.96875
+Training loss at step 100: 0.22768475115299225, accuracy: 0.9285272359848022
+Training loss at step 200: 0.22080224752426147, accuracy: 0.9287935495376587
+Training loss at step 300: 0.25614863634109497, accuracy: 0.9203696250915527
+Training loss at epoch 10: 0.26320889592170715
+Training accuracy at epoch 10: 0.918261706829071
+[I] Epoch 10 :  finished in 42.548 s.
+[I] Validating at epoch 10 started.
+Validation loss at epoch 10: 2.2368907928466797
+Validation accuracy at epoch 10: 0.5243111848831177
+[I] Validating at epoch 10 finished in 3.083 s.
+[I] Epoch 11 :  started.
+Training loss at step 0: 0.3780611753463745, accuracy: 0.875
+Training loss at step 100: 0.26986855268478394, accuracy: 0.9152227640151978
+Training loss at step 200: 0.24214810132980347, accuracy: 0.9236629605293274
+Training loss at step 300: 0.2332889437675476, accuracy: 0.9229651093482971
+Training loss at epoch 11: 0.23046943545341492
+Training accuracy at epoch 11: 0.923632800579071
+[I] Epoch 11 :  finished in 42.656 s.
+[I] Validating at epoch 11 started.
+Validation loss at epoch 11: 1.0460561513900757
+Validation accuracy at epoch 11: 0.7495948076248169
+[I] Validating at epoch 11 finished in 3.125 s.
+[I] Epoch 12 :  started.
+Training loss at step 0: 0.10765036940574646, accuracy: 0.9375
+Training loss at step 100: 0.18041570484638214, accuracy: 0.9418317079544067
+Training loss at step 200: 0.17677737772464752, accuracy: 0.944807231426239
+Training loss at step 300: 0.18260447680950165, accuracy: 0.9414451718330383
+Training loss at epoch 12: 0.18244875967502594
+Training accuracy at epoch 12: 0.9413086175918579
+[I] Epoch 12 :  finished in 42.522 s.
+[I] Validating at epoch 12 started.
+Validation loss at epoch 12: 1.450879454612732
+Validation accuracy at epoch 12: 0.6572123169898987
+[I] Validating at epoch 12 finished in 3.019 s.
+[I] Epoch 13 :  started.
+Training loss at step 0: 0.19046412408351898, accuracy: 0.9375
+Training loss at step 100: 0.16156139969825745, accuracy: 0.9464727640151978
+Training loss at step 200: 0.17116206884384155, accuracy: 0.9435634613037109
+Training loss at step 300: 0.17016653716564178, accuracy: 0.9440407156944275
+Training loss at epoch 13: 0.1699822098016739
+Training accuracy at epoch 13: 0.943554699420929
+[I] Epoch 13 :  finished in 41.872 s.
+[I] Validating at epoch 13 started.
+Validation loss at epoch 13: 1.2759166955947876
+Validation accuracy at epoch 13: 0.7074554562568665
+[I] Validating at epoch 13 finished in 3.098 s.
+[I] Epoch 14 :  started.
+Training loss at step 0: 0.24416743218898773, accuracy: 0.875
+Training loss at step 100: 0.17895957827568054, accuracy: 0.9418317079544067
+Training loss at step 200: 0.1745077669620514, accuracy: 0.9426305890083313
+Training loss at step 300: 0.16724838316440582, accuracy: 0.9440407156944275
+Training loss at epoch 14: 0.16783195734024048
+Training accuracy at epoch 14: 0.943652331829071
+[I] Epoch 14 :  finished in 42.426 s.
+[I] Validating at epoch 14 started.
+Validation loss at epoch 14: 1.0402719974517822
+Validation accuracy at epoch 14: 0.7653970718383789
+[I] Validating at epoch 14 finished in 3.149 s.
+[I] Epoch 15 :  started.
+Training loss at step 0: 0.23083731532096863, accuracy: 0.9375
+Training loss at step 100: 0.12986186146736145, accuracy: 0.9594678282737732
+Training loss at step 200: 0.1380729228258133, accuracy: 0.9538246393203735
+Training loss at step 300: 0.1471666395664215, accuracy: 0.9516196250915527
+Training loss at epoch 15: 0.14707568287849426
+Training accuracy at epoch 15: 0.951464831829071
+[I] Epoch 15 :  finished in 42.150 s.
+[I] Validating at epoch 15 started.
+Validation loss at epoch 15: 1.2075366973876953
+Validation accuracy at epoch 15: 0.7269043922424316
+[I] Validating at epoch 15 finished in 3.130 s.
+[I] Epoch 16 :  started.
+Training loss at step 0: 0.0911121591925621, accuracy: 0.96875
+Training loss at step 100: 0.16519179940223694, accuracy: 0.9489480257034302
+Training loss at step 200: 0.16588735580444336, accuracy: 0.9494714140892029
+Training loss at step 300: 0.1637258380651474, accuracy: 0.9475706219673157
+Training loss at epoch 16: 0.16551423072814941
+Training accuracy at epoch 16: 0.946484386920929
+[I] Epoch 16 :  finished in 42.517 s.
+[I] Validating at epoch 16 started.
+Validation loss at epoch 16: 1.0440213680267334
+Validation accuracy at epoch 16: 0.752836287021637
+[I] Validating at epoch 16 finished in 3.176 s.
+[I] Epoch 17 :  started.
+Training loss at step 0: 0.1884077936410904, accuracy: 0.90625
+Training loss at step 100: 0.14582815766334534, accuracy: 0.948019802570343
+Training loss at step 200: 0.17832240462303162, accuracy: 0.94107586145401
+Training loss at step 300: 0.17971567809581757, accuracy: 0.9401993155479431
+Training loss at epoch 17: 0.17938274145126343
+Training accuracy at epoch 17: 0.9403320550918579
+[I] Epoch 17 :  finished in 42.232 s.
+[I] Validating at epoch 17 started.
+Validation loss at epoch 17: 1.410061001777649
+Validation accuracy at epoch 17: 0.6843597888946533
+[I] Validating at epoch 17 finished in 3.135 s.
+[I] Epoch 18 :  started.
+Training loss at step 0: 0.12209106236696243, accuracy: 0.96875
+Training loss at step 100: 0.14905856549739838, accuracy: 0.9489480257034302
+Training loss at step 200: 0.14553393423557281, accuracy: 0.9504042267799377
+Training loss at step 300: 0.13111434876918793, accuracy: 0.9558762311935425
+Training loss at epoch 18: 0.1283338963985443
+Training accuracy at epoch 18: 0.95654296875
+[I] Epoch 18 :  finished in 42.372 s.
+[I] Validating at epoch 18 started.
+Validation loss at epoch 18: 0.9429687857627869
+Validation accuracy at epoch 18: 0.8002431392669678
+[I] Validating at epoch 18 finished in 3.078 s.
+Save model ... 
+[I] Epoch 19 :  started.
+Training loss at step 0: 0.025656763464212418, accuracy: 1.0
+Training loss at step 100: 0.12458113580942154, accuracy: 0.9591584205627441
+Training loss at step 200: 0.12463456392288208, accuracy: 0.9584888219833374
+Training loss at step 300: 0.11660902202129364, accuracy: 0.9625207781791687
+Training loss at epoch 19: 0.1170148253440857
+Training accuracy at epoch 19: 0.9623047113418579
+[I] Epoch 19 :  finished in 42.817 s.
+[I] Validating at epoch 19 started.
+Validation loss at epoch 19: 1.101629614830017
+Validation accuracy at epoch 19: 0.7520259022712708
+[I] Validating at epoch 19 finished in 3.144 s.
+[I] Epoch 20 :  started.
+Training loss at step 0: 0.12154035270214081, accuracy: 0.96875
+Training loss at step 100: 0.14785028994083405, accuracy: 0.9529703259468079
+Training loss at step 200: 0.14195145666599274, accuracy: 0.954291045665741
+Training loss at step 300: 0.14377939701080322, accuracy: 0.953799843788147
+Training loss at epoch 20: 0.14213213324546814
+Training accuracy at epoch 20: 0.9541015625
+[I] Epoch 20 :  finished in 42.385 s.
+[I] Validating at epoch 20 started.
+Validation loss at epoch 20: 1.1377404928207397
+Validation accuracy at epoch 20: 0.784440815448761
+[I] Validating at epoch 20 finished in 3.143 s.
+[I] Epoch 21 :  started.
+Training loss at step 0: 0.1320979744195938, accuracy: 0.96875
+Training loss at step 100: 0.12432706356048584, accuracy: 0.958539605140686
+Training loss at step 200: 0.1378532201051712, accuracy: 0.950715184211731
+Training loss at step 300: 0.13497138023376465, accuracy: 0.9525539875030518
+Training loss at epoch 21: 0.1340278834104538
+Training accuracy at epoch 21: 0.953320324420929
+[I] Epoch 21 :  finished in 42.604 s.
+[I] Validating at epoch 21 started.
+Validation loss at epoch 21: 1.2069661617279053
+Validation accuracy at epoch 21: 0.7277147769927979
+[I] Validating at epoch 21 finished in 3.139 s.
+[I] Epoch 22 :  started.
+Training loss at step 0: 0.24686603248119354, accuracy: 0.90625
+Training loss at step 100: 0.1065814346075058, accuracy: 0.9631807208061218
+Training loss at step 200: 0.12938210368156433, accuracy: 0.9586442708969116
+Training loss at step 300: 0.2690914273262024, accuracy: 0.9264950156211853
+Training loss at epoch 22: 0.4728884696960449
+Training accuracy at epoch 22: 0.9185546636581421
+[I] Epoch 22 :  finished in 42.499 s.
+[I] Validating at epoch 22 started.
+Validation loss at epoch 22: 39.10011672973633
+Validation accuracy at epoch 22: 0.07293354719877243
+[I] Validating at epoch 22 finished in 3.090 s.
+[I] Epoch 23 :  started.
+Training loss at step 0: 0.8220735788345337, accuracy: 0.71875
+Training loss at step 100: 0.9000347852706909, accuracy: 0.7803217768669128
+Training loss at step 200: 0.6536520719528198, accuracy: 0.8236940503120422
+Training loss at step 300: 0.5316950678825378, accuracy: 0.8501868844032288
+Training loss at epoch 23: 0.513782262802124
+Training accuracy at epoch 23: 0.854785144329071
+[I] Epoch 23 :  finished in 42.307 s.
+[I] Validating at epoch 23 started.
+Validation loss at epoch 23: 1.0653223991394043
+Validation accuracy at epoch 23: 0.7333873510360718
+[I] Validating at epoch 23 finished in 3.005 s.
+[I] Epoch 24 :  started.
+Training loss at step 0: 0.24420790374279022, accuracy: 0.96875
+Training loss at step 100: 0.2358592003583908, accuracy: 0.9189356565475464
+Training loss at step 200: 0.21555018424987793, accuracy: 0.926616907119751
+Training loss at step 300: 0.20145954191684723, accuracy: 0.9312707781791687
+Training loss at epoch 24: 0.20133209228515625
+Training accuracy at epoch 24: 0.930957019329071
+[I] Epoch 24 :  finished in 42.220 s.
+[I] Validating at epoch 24 started.
+Validation loss at epoch 24: 0.8477041721343994
+Validation accuracy at epoch 24: 0.7937601208686829
+[I] Validating at epoch 24 finished in 3.160 s.
+[I] Epoch 25 :  started.
+Training loss at step 0: 0.15184634923934937, accuracy: 0.9375
+Training loss at step 100: 0.13991715013980865, accuracy: 0.9548267126083374
+Training loss at step 200: 0.13151651620864868, accuracy: 0.9560012221336365
+Training loss at step 300: 0.12843254208564758, accuracy: 0.9563953280448914
+Training loss at epoch 25: 0.1281069666147232
+Training accuracy at epoch 25: 0.9564453363418579
+[I] Epoch 25 :  finished in 42.722 s.
+[I] Validating at epoch 25 started.
+Validation loss at epoch 25: 0.8455357551574707
+Validation accuracy at epoch 25: 0.8063209056854248
+[I] Validating at epoch 25 finished in 3.142 s.
+Save model ... 
+[I] Epoch 26 :  started.
+Training loss at step 0: 0.030083194375038147, accuracy: 1.0
+Training loss at step 100: 0.11478663980960846, accuracy: 0.9613242745399475
+Training loss at step 200: 0.105411596596241, accuracy: 0.965018630027771
+Training loss at step 300: 0.10448089241981506, accuracy: 0.9650124311447144
+Training loss at epoch 26: 0.10482033342123032
+Training accuracy at epoch 26: 0.9649413824081421
+[I] Epoch 26 :  finished in 42.689 s.
+[I] Validating at epoch 26 started.
+Validation loss at epoch 26: 0.8758273124694824
+Validation accuracy at epoch 26: 0.8128038644790649
+[I] Validating at epoch 26 finished in 3.163 s.
+Save model ... 
+[I] Epoch 27 :  started.
+Training loss at step 0: 0.08445194363594055, accuracy: 0.96875
+Training loss at step 100: 0.0926530584692955, accuracy: 0.9672029614448547
+Training loss at step 200: 0.08983511477708817, accuracy: 0.9695273637771606
+Training loss at step 300: 0.09137740731239319, accuracy: 0.9694767594337463
+Training loss at epoch 27: 0.09064941108226776
+Training accuracy at epoch 27: 0.9697265625
+[I] Epoch 27 :  finished in 42.108 s.
+[I] Validating at epoch 27 started.
+Validation loss at epoch 27: 0.9449188113212585
+Validation accuracy at epoch 27: 0.7860615849494934
+[I] Validating at epoch 27 finished in 3.001 s.
+[I] Epoch 28 :  started.
+Training loss at step 0: 0.3020280599594116, accuracy: 0.875
+Training loss at step 100: 0.10551679879426956, accuracy: 0.9637994766235352
+Training loss at step 200: 0.09845063090324402, accuracy: 0.9681280851364136
+Training loss at step 300: 0.09075890481472015, accuracy: 0.9707226157188416
+Training loss at epoch 28: 0.09090431779623032
+Training accuracy at epoch 28: 0.970898449420929
+[I] Epoch 28 :  finished in 42.331 s.
+[I] Validating at epoch 28 started.
+Validation loss at epoch 28: 0.8595753312110901
+Validation accuracy at epoch 28: 0.7961912751197815
+[I] Validating at epoch 28 finished in 3.122 s.
+[I] Epoch 29 :  started.
+Training loss at step 0: 0.10003596544265747, accuracy: 0.96875
+Training loss at step 100: 0.08358743041753769, accuracy: 0.9724628925323486
+Training loss at step 200: 0.08383316546678543, accuracy: 0.972481369972229
+Training loss at step 300: 0.09156707674264908, accuracy: 0.9699958562850952
+Training loss at epoch 29: 0.09109511226415634
+Training accuracy at epoch 29: 0.9698241949081421
+[I] Epoch 29 :  finished in 42.347 s.
+[I] Validating at epoch 29 started.
+Validation loss at epoch 29: 1.0565921068191528
+Validation accuracy at epoch 29: 0.7860615849494934
+[I] Validating at epoch 29 finished in 3.118 s.
+[I] Epoch 30 :  started.
+Training loss at step 0: 0.02424907311797142, accuracy: 1.0
+Training loss at step 100: 0.08934362232685089, accuracy: 0.9709158539772034
+Training loss at step 200: 0.08256453275680542, accuracy: 0.9710820913314819
+Training loss at step 300: 0.07648088783025742, accuracy: 0.9733180999755859
+Training loss at epoch 30: 0.07751676440238953
+Training accuracy at epoch 30: 0.9732421636581421
+[I] Epoch 30 :  finished in 42.693 s.
+[I] Validating at epoch 30 started.
+Validation loss at epoch 30: 1.0989665985107422
+Validation accuracy at epoch 30: 0.7965964078903198
+[I] Validating at epoch 30 finished in 2.995 s.
+[I] Epoch 31 :  started.
+Training loss at step 0: 0.06572046130895615, accuracy: 0.96875
+Training loss at step 100: 0.07061007618904114, accuracy: 0.9780321717262268
+Training loss at step 200: 0.07022896409034729, accuracy: 0.9755908250808716
+Training loss at step 300: 0.0758124589920044, accuracy: 0.9745639562606812
+Training loss at epoch 31: 0.07765620946884155
+Training accuracy at epoch 31: 0.973925769329071
+[I] Epoch 31 :  finished in 42.483 s.
+[I] Validating at epoch 31 started.
+Validation loss at epoch 31: 1.0758463144302368
+Validation accuracy at epoch 31: 0.7970016002655029
+[I] Validating at epoch 31 finished in 3.140 s.
+[I] Epoch 32 :  started.
+Training loss at step 0: 0.04551265016198158, accuracy: 0.96875
+Training loss at step 100: 0.056384406983852386, accuracy: 0.9817450642585754
+Training loss at step 200: 0.06931298971176147, accuracy: 0.9779228568077087
+Training loss at step 300: 0.07646963745355606, accuracy: 0.9753945469856262
+Training loss at epoch 32: 0.07653116434812546
+Training accuracy at epoch 32: 0.975292980670929
+[I] Epoch 32 :  finished in 42.604 s.
+[I] Validating at epoch 32 started.
+Validation loss at epoch 32: 1.0354207754135132
+Validation accuracy at epoch 32: 0.8115883469581604
+[I] Validating at epoch 32 finished in 3.135 s.
+[I] Epoch 33 :  started.
+Training loss at step 0: 0.027322741225361824, accuracy: 1.0
+Training loss at step 100: 0.07450246065855026, accuracy: 0.9740098714828491
+Training loss at step 200: 0.07293891906738281, accuracy: 0.976057231426239
+Training loss at step 300: 0.072097547352314, accuracy: 0.9751868844032288
+Training loss at epoch 33: 0.07077670097351074
+Training accuracy at epoch 33: 0.9756835699081421
+[I] Epoch 33 :  finished in 42.684 s.
+[I] Validating at epoch 33 started.
+Validation loss at epoch 33: 0.9716814756393433
+Validation accuracy at epoch 33: 0.7982171773910522
+[I] Validating at epoch 33 finished in 3.139 s.
+[I] Epoch 34 :  started.
+Training loss at step 0: 0.015391265973448753, accuracy: 1.0
+Training loss at step 100: 0.05911661684513092, accuracy: 0.9817450642585754
+Training loss at step 200: 0.063944511115551, accuracy: 0.9797885417938232
+Training loss at step 300: 0.06557657569646835, accuracy: 0.9790282249450684
+Training loss at epoch 34: 0.06559862941503525
+Training accuracy at epoch 34: 0.9789062738418579
+[I] Epoch 34 :  finished in 42.693 s.
+[I] Validating at epoch 34 started.
+Validation loss at epoch 34: 0.9406973719596863
+Validation accuracy at epoch 34: 0.819692075252533
+[I] Validating at epoch 34 finished in 3.138 s.
+Save model ... 
+[I] Epoch 35 :  started.
+Training loss at step 0: 0.08829201757907867, accuracy: 0.9375
+Training loss at step 100: 0.0597635954618454, accuracy: 0.9811262488365173
+Training loss at step 200: 0.06975063681602478, accuracy: 0.976057231426239
+Training loss at step 300: 0.07030151784420013, accuracy: 0.9757059812545776
+Training loss at epoch 35: 0.06989459693431854
+Training accuracy at epoch 35: 0.975878894329071
+[I] Epoch 35 :  finished in 42.745 s.
+[I] Validating at epoch 35 started.
+Validation loss at epoch 35: 0.899367094039917
+Validation accuracy at epoch 35: 0.8265802264213562
+[I] Validating at epoch 35 finished in 3.136 s.
+Save model ... 
+[I] Epoch 36 :  started.
+Training loss at step 0: 0.004231862723827362, accuracy: 1.0
+Training loss at step 100: 0.07681427896022797, accuracy: 0.9712252616882324
+Training loss at step 200: 0.08074329793453217, accuracy: 0.9696828126907349
+Training loss at step 300: 0.07173455506563187, accuracy: 0.974252462387085
+Training loss at epoch 36: 0.07192149758338928
+Training accuracy at epoch 36: 0.974414050579071
+[I] Epoch 36 :  finished in 42.533 s.
+[I] Validating at epoch 36 started.
+Validation loss at epoch 36: 1.1442193984985352
+Validation accuracy at epoch 36: 0.7921394109725952
+[I] Validating at epoch 36 finished in 3.095 s.
+[I] Epoch 37 :  started.
+Training loss at step 0: 0.07268114387989044, accuracy: 0.96875
+Training loss at step 100: 0.05191117152571678, accuracy: 0.9817450642585754
+Training loss at step 200: 0.054441358894109726, accuracy: 0.9810323119163513
+Training loss at step 300: 0.0645354762673378, accuracy: 0.9774709343910217
+Training loss at epoch 37: 0.06484470516443253
+Training accuracy at epoch 37: 0.9775390625
+[I] Epoch 37 :  finished in 42.366 s.
+[I] Validating at epoch 37 started.
+Validation loss at epoch 37: 1.2836778163909912
+Validation accuracy at epoch 37: 0.7641814947128296
+[I] Validating at epoch 37 finished in 3.093 s.
+[I] Epoch 38 :  started.
+Training loss at step 0: 0.04976759850978851, accuracy: 0.96875
+Training loss at step 100: 0.053283676505088806, accuracy: 0.9832921028137207
+Training loss at step 200: 0.05446196347475052, accuracy: 0.9821206331253052
+Training loss at step 300: 0.058302972465753555, accuracy: 0.9808970093727112
+Training loss at epoch 38: 0.05982527881860733
+Training accuracy at epoch 38: 0.980273425579071
+[I] Epoch 38 :  finished in 42.084 s.
+[I] Validating at epoch 38 started.
+Validation loss at epoch 38: 1.1914921998977661
+Validation accuracy at epoch 38: 0.7945705056190491
+[I] Validating at epoch 38 finished in 3.162 s.
+[I] Epoch 39 :  started.
+Training loss at step 0: 0.03879384696483612, accuracy: 0.96875
+Training loss at step 100: 0.06540083140134811, accuracy: 0.9771039485931396
+Training loss at step 200: 0.06421267986297607, accuracy: 0.9787002205848694
+Training loss at step 300: 0.06161108613014221, accuracy: 0.9793397188186646
+Training loss at epoch 39: 0.06360135972499847
+Training accuracy at epoch 39: 0.9784179925918579
+[I] Epoch 39 :  finished in 42.592 s.
+[I] Validating at epoch 39 started.
+Validation loss at epoch 39: 1.0522617101669312
+Validation accuracy at epoch 39: 0.8205024600028992
+[I] Validating at epoch 39 finished in 3.126 s.
+[I] Epoch 40 :  started.
+Training loss at step 0: 0.32247573137283325, accuracy: 0.875
+Training loss at step 100: 0.07152938842773438, accuracy: 0.9743192791938782
+Training loss at step 200: 0.05730876699090004, accuracy: 0.979633092880249
+Training loss at step 300: 0.05310137942433357, accuracy: 0.9811046719551086
+Training loss at epoch 40: 0.054201412945985794
+Training accuracy at epoch 40: 0.9808593988418579
+[I] Epoch 40 :  finished in 42.082 s.
+[I] Validating at epoch 40 started.
+Validation loss at epoch 40: 1.348876714706421
+Validation accuracy at epoch 40: 0.7840356826782227
+[I] Validating at epoch 40 finished in 3.084 s.
+[I] Epoch 41 :  started.
+Training loss at step 0: 0.009831233881413937, accuracy: 1.0
+Training loss at step 100: 0.054425694048404694, accuracy: 0.9795792102813721
+Training loss at step 200: 0.06660100817680359, accuracy: 0.9779228568077087
+Training loss at step 300: 0.0644759088754654, accuracy: 0.9780938625335693
+Training loss at epoch 41: 0.063601054251194
+Training accuracy at epoch 41: 0.978515625
+[I] Epoch 41 :  finished in 41.810 s.
+[I] Validating at epoch 41 started.
+Validation loss at epoch 41: 1.1016229391098022
+Validation accuracy at epoch 41: 0.8059157133102417
+[I] Validating at epoch 41 finished in 3.143 s.
+[I] Epoch 42 :  started.
+Training loss at step 0: 0.06708024442195892, accuracy: 0.9375
+Training loss at step 100: 0.05844563618302345, accuracy: 0.979269802570343
+Training loss at step 200: 0.058947667479515076, accuracy: 0.9785447716712952
+Training loss at step 300: 0.058090146631002426, accuracy: 0.979651153087616
+Training loss at epoch 42: 0.05697844550013542
+Training accuracy at epoch 42: 0.9800781011581421
+[I] Epoch 42 :  finished in 42.335 s.
+[I] Validating at epoch 42 started.
+Validation loss at epoch 42: 1.1730555295944214
+Validation accuracy at epoch 42: 0.8022690415382385
+[I] Validating at epoch 42 finished in 3.152 s.
+[I] Epoch 43 :  started.
+Training loss at step 0: 0.01606747694313526, accuracy: 1.0
+Training loss at step 100: 0.052686892449855804, accuracy: 0.9811262488365173
+Training loss at step 200: 0.062416959553956985, accuracy: 0.9793221354484558
+Training loss at step 300: 0.07087711244821548, accuracy: 0.9766403436660767
+Training loss at epoch 43: 0.07217739522457123
+Training accuracy at epoch 43: 0.9761718511581421
+[I] Epoch 43 :  finished in 41.687 s.
+[I] Validating at epoch 43 started.
+Validation loss at epoch 43: 1.396483302116394
+Validation accuracy at epoch 43: 0.7581037282943726
+[I] Validating at epoch 43 finished in 3.067 s.
+[I] Epoch 44 :  started.
+Training loss at step 0: 0.1399446427822113, accuracy: 0.96875
+Training loss at step 100: 0.08972358703613281, accuracy: 0.968440592288971
+Training loss at step 200: 0.06970299035310745, accuracy: 0.9766790866851807
+Training loss at step 300: 0.06447494029998779, accuracy: 0.9780938625335693
+Training loss at epoch 44: 0.0646728128194809
+Training accuracy at epoch 44: 0.978320300579071
+[I] Epoch 44 :  finished in 42.530 s.
+[I] Validating at epoch 44 started.
+Validation loss at epoch 44: 1.316537857055664
+Validation accuracy at epoch 44: 0.8083468675613403
+[I] Validating at epoch 44 finished in 3.077 s.
+[I] Epoch 45 :  started.
+Training loss at step 0: 0.011430016718804836, accuracy: 1.0
+Training loss at step 100: 0.04872625693678856, accuracy: 0.9820544719696045
+Training loss at step 200: 0.047329213470220566, accuracy: 0.983208954334259
+Training loss at step 300: 0.04871227592229843, accuracy: 0.9821428656578064
+Training loss at epoch 45: 0.04827059805393219
+Training accuracy at epoch 45: 0.9825195074081421
+[I] Epoch 45 :  finished in 42.601 s.
+[I] Validating at epoch 45 started.
+Validation loss at epoch 45: 1.0646828413009644
+Validation accuracy at epoch 45: 0.8180713057518005
+[I] Validating at epoch 45 finished in 3.148 s.
+[I] Epoch 46 :  started.
+Training loss at step 0: 0.053473640233278275, accuracy: 0.96875
+Training loss at step 100: 0.04341496527194977, accuracy: 0.9870049357414246
+Training loss at step 200: 0.04806249588727951, accuracy: 0.9836753606796265
+Training loss at step 300: 0.049239546060562134, accuracy: 0.9828696250915527
+Training loss at epoch 46: 0.048005566000938416
+Training accuracy at epoch 46: 0.9833008050918579
+[I] Epoch 46 :  finished in 41.718 s.
+[I] Validating at epoch 46 started.
+Validation loss at epoch 46: 1.2047899961471558
+Validation accuracy at epoch 46: 0.8200972676277161
+[I] Validating at epoch 46 finished in 3.140 s.
+[I] Epoch 47 :  started.
+Training loss at step 0: 0.005814757198095322, accuracy: 1.0
+Training loss at step 100: 0.04581499099731445, accuracy: 0.9845296740531921
+Training loss at step 200: 0.06280793994665146, accuracy: 0.9788557291030884
+Training loss at step 300: 0.08062466979026794, accuracy: 0.9732142686843872
+Training loss at epoch 47: 0.08105247467756271
+Training accuracy at epoch 47: 0.9732421636581421
+[I] Epoch 47 :  finished in 42.571 s.
+[I] Validating at epoch 47 started.
+Validation loss at epoch 47: 1.7475380897521973
+Validation accuracy at epoch 47: 0.7252836227416992
+[I] Validating at epoch 47 finished in 3.149 s.
+[I] Epoch 48 :  started.
+Training loss at step 0: 0.12360177934169769, accuracy: 0.9375
+Training loss at step 100: 0.06364861875772476, accuracy: 0.9755569100379944
+Training loss at step 200: 0.05834879353642464, accuracy: 0.9787002205848694
+Training loss at step 300: 0.053219784051179886, accuracy: 0.9807931780815125
+Training loss at epoch 48: 0.05214617773890495
+Training accuracy at epoch 48: 0.981152355670929
+[I] Epoch 48 :  finished in 42.534 s.
+[I] Validating at epoch 48 started.
+Validation loss at epoch 48: 1.0941828489303589
+Validation accuracy at epoch 48: 0.822933554649353
+[I] Validating at epoch 48 finished in 3.166 s.
+[I] Epoch 49 :  started.
+Training loss at step 0: 0.006157393101602793, accuracy: 1.0
+Training loss at step 100: 0.04303009808063507, accuracy: 0.9842203259468079
+Training loss at step 200: 0.046081289649009705, accuracy: 0.9841417670249939
+Training loss at step 300: 0.046265825629234314, accuracy: 0.9834925532341003
+Training loss at epoch 49: 0.04598337784409523
+Training accuracy at epoch 49: 0.9837890863418579
+[I] Epoch 49 :  finished in 42.622 s.
+[I] Validating at epoch 49 started.
+Validation loss at epoch 49: 1.0208895206451416
+Validation accuracy at epoch 49: 0.8282009959220886
+[I] Validating at epoch 49 finished in 3.139 s.
+Save model ... 
+[I] Epoch 50 :  started.
+Training loss at step 0: 0.028731422498822212, accuracy: 1.0
+Training loss at step 100: 0.023432213813066483, accuracy: 0.9928836822509766
+Training loss at step 200: 0.02997954748570919, accuracy: 0.9902052283287048
+Training loss at step 300: 0.03208684176206589, accuracy: 0.9886835813522339
+Training loss at epoch 50: 0.032259657979011536
+Training accuracy at epoch 50: 0.988476574420929
+[I] Epoch 50 :  finished in 42.700 s.
+[I] Validating at epoch 50 started.
+Validation loss at epoch 50: 1.0410630702972412
+Validation accuracy at epoch 50: 0.8314424753189087
+[I] Validating at epoch 50 finished in 3.144 s.
+Save model ... 
+[I] Epoch 51 :  started.
+Training loss at step 0: 0.0031727049499750137, accuracy: 1.0
+Training loss at step 100: 0.022869981825351715, accuracy: 0.9922648668289185
+Training loss at step 200: 0.02083509787917137, accuracy: 0.9923818111419678
+Training loss at step 300: 0.025944329798221588, accuracy: 0.9902408719062805
+Training loss at epoch 51: 0.026356587186455727
+Training accuracy at epoch 51: 0.990039050579071
+[I] Epoch 51 :  finished in 42.316 s.
+[I] Validating at epoch 51 started.
+Validation loss at epoch 51: 1.164167881011963
+Validation accuracy at epoch 51: 0.8213127851486206
+[I] Validating at epoch 51 finished in 3.121 s.
+[I] Epoch 52 :  started.
+Training loss at step 0: 0.002472966443747282, accuracy: 1.0
+Training loss at step 100: 0.030163126066327095, accuracy: 0.9891707897186279
+Training loss at step 200: 0.02918766438961029, accuracy: 0.9889614582061768
+Training loss at step 300: 0.029072346165776253, accuracy: 0.9892026782035828
+Training loss at epoch 52: 0.029111962765455246
+Training accuracy at epoch 52: 0.9893554449081421
+[I] Epoch 52 :  finished in 42.737 s.
+[I] Validating at epoch 52 started.
+Validation loss at epoch 52: 1.0450316667556763
+Validation accuracy at epoch 52: 0.8298217058181763
+[I] Validating at epoch 52 finished in 3.146 s.
+[I] Epoch 53 :  started.
+Training loss at step 0: 0.028095586225390434, accuracy: 1.0
+Training loss at step 100: 0.018254369497299194, accuracy: 0.9959776997566223
+Training loss at step 200: 0.024751482531428337, accuracy: 0.9930037260055542
+Training loss at step 300: 0.024247296154499054, accuracy: 0.9928363561630249
+Training loss at epoch 53: 0.023614218458533287
+Training accuracy at epoch 53: 0.992871105670929
+[I] Epoch 53 :  finished in 42.645 s.
+[I] Validating at epoch 53 started.
+Validation loss at epoch 53: 1.0805261135101318
+Validation accuracy at epoch 53: 0.8294165134429932
+[I] Validating at epoch 53 finished in 3.115 s.
+[I] Epoch 54 :  started.
+Training loss at step 0: 0.016252480447292328, accuracy: 1.0
+Training loss at step 100: 0.028014404699206352, accuracy: 0.9904084205627441
+Training loss at step 200: 0.030488841235637665, accuracy: 0.9900497794151306
+Training loss at step 300: 0.03138848766684532, accuracy: 0.9885797500610352
+Training loss at epoch 54: 0.031899917870759964
+Training accuracy at epoch 54: 0.9881836175918579
+[I] Epoch 54 :  finished in 42.403 s.
+[I] Validating at epoch 54 started.
+Validation loss at epoch 54: 1.2219728231430054
+Validation accuracy at epoch 54: 0.8148298263549805
+[I] Validating at epoch 54 finished in 3.145 s.
+[I] Epoch 55 :  started.
+Training loss at step 0: 0.021175775676965714, accuracy: 1.0
+Training loss at step 100: 0.02533615007996559, accuracy: 0.9922648668289185
+Training loss at step 200: 0.025247754529118538, accuracy: 0.9919154047966003
+Training loss at step 300: 0.028979582712054253, accuracy: 0.9900332093238831
+Training loss at epoch 55: 0.02921122871339321
+Training accuracy at epoch 55: 0.9898437261581421
+[I] Epoch 55 :  finished in 42.703 s.
+[I] Validating at epoch 55 started.
+Validation loss at epoch 55: 1.1516339778900146
+Validation accuracy at epoch 55: 0.8107779622077942
+[I] Validating at epoch 55 finished in 3.073 s.
+[I] Epoch 56 :  started.
+Training loss at step 0: 0.19558261334896088, accuracy: 0.9375
+Training loss at step 100: 0.028526024892926216, accuracy: 0.9891707897186279
+Training loss at step 200: 0.03154310956597328, accuracy: 0.9889614582061768
+Training loss at step 300: 0.031759992241859436, accuracy: 0.9886835813522339
+Training loss at epoch 56: 0.033704351633787155
+Training accuracy at epoch 56: 0.988085925579071
+[I] Epoch 56 :  finished in 42.435 s.
+[I] Validating at epoch 56 started.
+Validation loss at epoch 56: 1.223743200302124
+Validation accuracy at epoch 56: 0.8014586567878723
+[I] Validating at epoch 56 finished in 3.149 s.
+[I] Epoch 57 :  started.
+Training loss at step 0: 0.016401048749685287, accuracy: 1.0
+Training loss at step 100: 0.03511986881494522, accuracy: 0.9879331588745117
+Training loss at step 200: 0.03388746455311775, accuracy: 0.9881840944290161
+Training loss at step 300: 0.03250199556350708, accuracy: 0.989098846912384
+Training loss at epoch 57: 0.03214135766029358
+Training accuracy at epoch 57: 0.9892578125
+[I] Epoch 57 :  finished in 42.572 s.
+[I] Validating at epoch 57 started.
+Validation loss at epoch 57: 1.2910898923873901
+Validation accuracy at epoch 57: 0.807131290435791
+[I] Validating at epoch 57 finished in 3.124 s.
+[I] Epoch 58 :  started.
+Training loss at step 0: 0.0166949313133955, accuracy: 1.0
+Training loss at step 100: 0.022705741226673126, accuracy: 0.9944307208061218
+Training loss at step 200: 0.020208507776260376, accuracy: 0.9937810897827148
+Training loss at step 300: 0.027223875746130943, accuracy: 0.9909676313400269
+Training loss at epoch 58: 0.027211260050535202
+Training accuracy at epoch 58: 0.991015613079071
+[I] Epoch 58 :  finished in 42.634 s.
+[I] Validating at epoch 58 started.
+Validation loss at epoch 58: 1.1484240293502808
+Validation accuracy at epoch 58: 0.8213127851486206
+[I] Validating at epoch 58 finished in 3.135 s.
+[I] Epoch 59 :  started.
+Training loss at step 0: 0.06000740826129913, accuracy: 0.9375
+Training loss at step 100: 0.03931712731719017, accuracy: 0.9882425665855408
+Training loss at step 200: 0.034275639802217484, accuracy: 0.9884950518608093
+Training loss at step 300: 0.03207291290163994, accuracy: 0.9892026782035828
+Training loss at epoch 59: 0.03167513757944107
+Training accuracy at epoch 59: 0.9893554449081421
+[I] Epoch 59 :  finished in 42.322 s.
+[I] Validating at epoch 59 started.
+Validation loss at epoch 59: 1.1793537139892578
+Validation accuracy at epoch 59: 0.8253646492958069
+[I] Validating at epoch 59 finished in 3.124 s.
+[I] Epoch 60 :  started.
+Training loss at step 0: 0.002514024032279849, accuracy: 1.0
+Training loss at step 100: 0.024615315720438957, accuracy: 0.9916460514068604
+Training loss at step 200: 0.02637641318142414, accuracy: 0.9911380410194397
+Training loss at step 300: 0.025310372933745384, accuracy: 0.991382896900177
+Training loss at epoch 60: 0.025069182738661766
+Training accuracy at epoch 60: 0.9916015863418579
+[I] Epoch 60 :  finished in 42.430 s.
+[I] Validating at epoch 60 started.
+Validation loss at epoch 60: 1.5435302257537842
+Validation accuracy at epoch 60: 0.7767422795295715
+[I] Validating at epoch 60 finished in 3.146 s.
+[I] Epoch 61 :  started.
+Training loss at step 0: 0.002028489951044321, accuracy: 1.0
+Training loss at step 100: 0.03181730583310127, accuracy: 0.9907178282737732
+Training loss at step 200: 0.03137738257646561, accuracy: 0.9900497794151306
+Training loss at step 300: 0.03270145133137703, accuracy: 0.9889950156211853
+Training loss at epoch 61: 0.03310646489262581
+Training accuracy at epoch 61: 0.9892578125
+[I] Epoch 61 :  finished in 42.802 s.
+[I] Validating at epoch 61 started.
+Validation loss at epoch 61: 1.2176802158355713
+Validation accuracy at epoch 61: 0.7998379468917847
+[I] Validating at epoch 61 finished in 3.098 s.
+[I] Epoch 62 :  started.
+Training loss at step 0: 0.01777520775794983, accuracy: 1.0
+Training loss at step 100: 0.03222887963056564, accuracy: 0.989789605140686
+Training loss at step 200: 3.8562753200531006, accuracy: 0.9609763622283936
+Training loss at step 300: 2.6333327293395996, accuracy: 0.957848846912384
+Training loss at epoch 62: 2.4873435497283936
+Training accuracy at epoch 62: 0.9571288824081421
+[I] Epoch 62 :  finished in 41.886 s.
+[I] Validating at epoch 62 started.
+Validation loss at epoch 62: 1.595922589302063
+Validation accuracy at epoch 62: 0.7305510640144348
+[I] Validating at epoch 62 finished in 3.155 s.
+[I] Epoch 63 :  started.
+Training loss at step 0: 0.2726341485977173, accuracy: 0.90625
+Training loss at step 100: 0.0903455913066864, accuracy: 0.9706064462661743
+Training loss at step 200: 0.09013213962316513, accuracy: 0.9710820913314819
+Training loss at step 300: 0.08598041534423828, accuracy: 0.9717608094215393
+Training loss at epoch 63: 0.08623795956373215
+Training accuracy at epoch 63: 0.9716796875
+[I] Epoch 63 :  finished in 42.397 s.
+[I] Validating at epoch 63 started.
+Validation loss at epoch 63: 1.5415308475494385
+Validation accuracy at epoch 63: 0.7674230337142944
+[I] Validating at epoch 63 finished in 3.163 s.
+[I] Epoch 64 :  started.
+Training loss at step 0: 0.09204812347888947, accuracy: 0.96875
+Training loss at step 100: 0.0635940358042717, accuracy: 0.9771039485931396
+Training loss at step 200: 0.059486858546733856, accuracy: 0.9799440503120422
+Training loss at step 300: 0.05886474624276161, accuracy: 0.9801702499389648
+Training loss at epoch 64: 0.057242490351200104
+Training accuracy at epoch 64: 0.9808593988418579
+[I] Epoch 64 :  finished in 42.386 s.
+[I] Validating at epoch 64 started.
+Validation loss at epoch 64: 1.03081214427948
+Validation accuracy at epoch 64: 0.8079416751861572
+[I] Validating at epoch 64 finished in 3.166 s.
+[I] Epoch 65 :  started.
+Training loss at step 0: 0.009221896529197693, accuracy: 1.0
+Training loss at step 100: 0.04131244495511055, accuracy: 0.9870049357414246
+Training loss at step 200: 0.04196913167834282, accuracy: 0.9864738583564758
+Training loss at step 300: 0.04259144514799118, accuracy: 0.9858803749084473
+Training loss at epoch 65: 0.04289725795388222
+Training accuracy at epoch 65: 0.9859374761581421
+[I] Epoch 65 :  finished in 42.339 s.
+[I] Validating at epoch 65 started.
+Validation loss at epoch 65: 1.1472214460372925
+Validation accuracy at epoch 65: 0.8111831545829773
+[I] Validating at epoch 65 finished in 3.122 s.
+[I] Epoch 66 :  started.
+Training loss at step 0: 0.011715739965438843, accuracy: 1.0
+Training loss at step 100: 0.04191852733492851, accuracy: 0.9857673048973083
+Training loss at step 200: 0.0392141118645668, accuracy: 0.9875621795654297
+Training loss at step 300: 0.04230887442827225, accuracy: 0.9860880374908447
+Training loss at epoch 66: 0.041933558881282806
+Training accuracy at epoch 66: 0.986132800579071
+[I] Epoch 66 :  finished in 42.592 s.
+[I] Validating at epoch 66 started.
+Validation loss at epoch 66: 1.1782023906707764
+Validation accuracy at epoch 66: 0.8184764981269836
+[I] Validating at epoch 66 finished in 3.147 s.
+[I] Epoch 67 :  started.
+Training loss at step 0: 0.04565485939383507, accuracy: 1.0
+Training loss at step 100: 0.04470523074269295, accuracy: 0.9863861203193665
+Training loss at step 200: 0.0468171164393425, accuracy: 0.9853855967521667
+Training loss at step 300: 0.04266122356057167, accuracy: 0.9865033030509949
+Training loss at epoch 67: 0.042422857135534286
+Training accuracy at epoch 67: 0.9864257574081421
+[I] Epoch 67 :  finished in 42.711 s.
+[I] Validating at epoch 67 started.
+Validation loss at epoch 67: 1.1413171291351318
+Validation accuracy at epoch 67: 0.8034846186637878
+[I] Validating at epoch 67 finished in 3.142 s.
+[I] Epoch 68 :  started.
+Training loss at step 0: 0.04140380769968033, accuracy: 1.0
+Training loss at step 100: 0.03985323756933212, accuracy: 0.9866955280303955
+Training loss at step 200: 0.034592155367136, accuracy: 0.9895833134651184
+Training loss at step 300: 0.03448144719004631, accuracy: 0.9889950156211853
+Training loss at epoch 68: 0.03464552387595177
+Training accuracy at epoch 68: 0.9886718988418579
+[I] Epoch 68 :  finished in 42.951 s.
+[I] Validating at epoch 68 started.
+Validation loss at epoch 68: 1.20361328125
+Validation accuracy at epoch 68: 0.8184764981269836
+[I] Validating at epoch 68 finished in 3.157 s.
+[I] Epoch 69 :  started.
+Training loss at step 0: 0.02851368486881256, accuracy: 1.0
+Training loss at step 100: 0.03359244018793106, accuracy: 0.9882425665855408
+Training loss at step 200: 0.03423343598842621, accuracy: 0.9877176880836487
+Training loss at step 300: 0.03434457629919052, accuracy: 0.9870223999023438
+Training loss at epoch 69: 0.03562476858496666
+Training accuracy at epoch 69: 0.98681640625
+[I] Epoch 69 :  finished in 42.492 s.
+[I] Validating at epoch 69 started.
+Validation loss at epoch 69: 1.2417070865631104
+Validation accuracy at epoch 69: 0.7937601208686829
+[I] Validating at epoch 69 finished in 3.129 s.
+[I] Epoch 70 :  started.
+Training loss at step 0: 0.12655575573444366, accuracy: 0.9375
+Training loss at step 100: 0.036324065178632736, accuracy: 0.989480197429657
+Training loss at step 200: 0.035310275852680206, accuracy: 0.9886505007743835
+Training loss at step 300: 0.03590499982237816, accuracy: 0.9884759187698364
+Training loss at epoch 70: 0.036223404109478
+Training accuracy at epoch 70: 0.9883788824081421
+[I] Epoch 70 :  finished in 42.368 s.
+[I] Validating at epoch 70 started.
+Validation loss at epoch 70: 1.4458898305892944
+Validation accuracy at epoch 70: 0.7909238338470459
+[I] Validating at epoch 70 finished in 3.110 s.
+[I] Epoch 71 :  started.
+Training loss at step 0: 0.012884584255516529, accuracy: 1.0
+Training loss at step 100: 0.03159838169813156, accuracy: 0.9876237511634827
+Training loss at step 200: 0.03192279860377312, accuracy: 0.9886505007743835
+Training loss at step 300: 0.028699053451418877, accuracy: 0.9900332093238831
+Training loss at epoch 71: 0.0279230959713459
+Training accuracy at epoch 71: 0.9903320074081421
+[I] Epoch 71 :  finished in 42.608 s.
+[I] Validating at epoch 71 started.
+Validation loss at epoch 71: 1.1325608491897583
+Validation accuracy at epoch 71: 0.8371150493621826
+[I] Validating at epoch 71 finished in 2.982 s.
+Save model ... 
+[I] Epoch 72 :  started.
+Training loss at step 0: 0.004195773974061012, accuracy: 1.0
+Training loss at step 100: 0.030213918536901474, accuracy: 0.9891707897186279
+Training loss at step 200: 0.03262246400117874, accuracy: 0.9883395433425903
+Training loss at step 300: 0.03216778486967087, accuracy: 0.988268256187439
+Training loss at epoch 72: 0.03144460171461105
+Training accuracy at epoch 72: 0.9886718988418579
+[I] Epoch 72 :  finished in 42.337 s.
+[I] Validating at epoch 72 started.
+Validation loss at epoch 72: 1.2016538381576538
+Validation accuracy at epoch 72: 0.8160454034805298
+[I] Validating at epoch 72 finished in 3.136 s.
+[I] Epoch 73 :  started.
+Training loss at step 0: 0.013493690639734268, accuracy: 1.0
+Training loss at step 100: 0.039108023047447205, accuracy: 0.9854578971862793
+Training loss at step 200: 0.036944177001714706, accuracy: 0.9856964945793152
+Training loss at step 300: 0.034616127610206604, accuracy: 0.9876453280448914
+Training loss at epoch 73: 0.03418521210551262
+Training accuracy at epoch 73: 0.987988293170929
+[I] Epoch 73 :  finished in 42.530 s.
+[I] Validating at epoch 73 started.
+Validation loss at epoch 73: 1.2851673364639282
+Validation accuracy at epoch 73: 0.8018638491630554
+[I] Validating at epoch 73 finished in 3.085 s.
+[I] Epoch 74 :  started.
+Training loss at step 0: 0.013401102274656296, accuracy: 1.0
+Training loss at step 100: 0.027739062905311584, accuracy: 0.9904084205627441
+Training loss at step 200: 0.027937844395637512, accuracy: 0.9909825921058655
+Training loss at step 300: 0.0338149294257164, accuracy: 0.9895141124725342
+Training loss at epoch 74: 0.03409329801797867
+Training accuracy at epoch 74: 0.9891601800918579
+[I] Epoch 74 :  finished in 42.801 s.
+[I] Validating at epoch 74 started.
+Validation loss at epoch 74: 1.3917672634124756
+Validation accuracy at epoch 74: 0.7828201055526733
+[I] Validating at epoch 74 finished in 3.135 s.
+[I] Epoch 75 :  started.
+Training loss at step 0: 0.016577962785959244, accuracy: 1.0
+Training loss at step 100: 0.02812890335917473, accuracy: 0.9907178282737732
+Training loss at step 200: 0.025726957246661186, accuracy: 0.9909825921058655
+Training loss at step 300: 0.024665871635079384, accuracy: 0.9914867281913757
+Training loss at epoch 75: 0.02533692680299282
+Training accuracy at epoch 75: 0.991503894329071
+[I] Epoch 75 :  finished in 42.673 s.
+[I] Validating at epoch 75 started.
+Validation loss at epoch 75: 1.1323659420013428
+Validation accuracy at epoch 75: 0.8403565883636475
+[I] Validating at epoch 75 finished in 3.114 s.
+Save model ... 
+[I] Epoch 76 :  started.
+Training loss at step 0: 0.04274655878543854, accuracy: 0.96875
+Training loss at step 100: 0.021951787173748016, accuracy: 0.9913366436958313
+Training loss at step 200: 0.02159040793776512, accuracy: 0.9920709133148193
+Training loss at step 300: 0.023036375641822815, accuracy: 0.9917981624603271
+Training loss at epoch 76: 0.022531164810061455
+Training accuracy at epoch 76: 0.991894543170929
+[I] Epoch 76 :  finished in 42.763 s.
+[I] Validating at epoch 76 started.
+Validation loss at epoch 76: 1.1494519710540771
+Validation accuracy at epoch 76: 0.82576984167099
+[I] Validating at epoch 76 finished in 3.125 s.
+[I] Epoch 77 :  started.
+Training loss at step 0: 0.009557181037962437, accuracy: 1.0
+Training loss at step 100: 0.015105490572750568, accuracy: 0.9944307208061218
+Training loss at step 200: 0.01957896538078785, accuracy: 0.9939365386962891
+Training loss at step 300: 0.020580798387527466, accuracy: 0.9930440187454224
+Training loss at epoch 77: 0.02103721722960472
+Training accuracy at epoch 77: 0.99267578125
+[I] Epoch 77 :  finished in 42.509 s.
+[I] Validating at epoch 77 started.
+Validation loss at epoch 77: 1.2196314334869385
+Validation accuracy at epoch 77: 0.8298217058181763
+[I] Validating at epoch 77 finished in 3.125 s.
+[I] Epoch 78 :  started.
+Training loss at step 0: 0.005400482565164566, accuracy: 1.0
+Training loss at step 100: 0.01743023656308651, accuracy: 0.9950494766235352
+Training loss at step 200: 0.01826939359307289, accuracy: 0.9948694109916687
+Training loss at step 300: 0.021804658696055412, accuracy: 0.9930440187454224
+Training loss at epoch 78: 0.021358579397201538
+Training accuracy at epoch 78: 0.9931640625
+[I] Epoch 78 :  finished in 41.881 s.
+[I] Validating at epoch 78 started.
+Validation loss at epoch 78: 1.1358674764633179
+Validation accuracy at epoch 78: 0.8338735699653625
+[I] Validating at epoch 78 finished in 3.125 s.
+[I] Epoch 79 :  started.
+Training loss at step 0: 0.02106357179582119, accuracy: 1.0
+Training loss at step 100: 0.018627071753144264, accuracy: 0.9944307208061218
+Training loss at step 200: 0.020419301465153694, accuracy: 0.9936256408691406
+Training loss at step 300: 0.018138080835342407, accuracy: 0.9942898750305176
+Training loss at epoch 79: 0.017929207533597946
+Training accuracy at epoch 79: 0.994335949420929
+[I] Epoch 79 :  finished in 42.390 s.
+[I] Validating at epoch 79 started.
+Validation loss at epoch 79: 1.1132662296295166
+Validation accuracy at epoch 79: 0.8342787623405457
+[I] Validating at epoch 79 finished in 3.146 s.
+[I] Epoch 80 :  started.
+Training loss at step 0: 0.001639748108573258, accuracy: 1.0
+Training loss at step 100: 0.0208060834556818, accuracy: 0.9947401285171509
+Training loss at step 200: 0.018720682710409164, accuracy: 0.9945584535598755
+Training loss at step 300: 0.018265385180711746, accuracy: 0.9943937063217163
+Training loss at epoch 80: 0.018614158034324646
+Training accuracy at epoch 80: 0.9940429925918579
+[I] Epoch 80 :  finished in 42.597 s.
+[I] Validating at epoch 80 started.
+Validation loss at epoch 80: 1.232204556465149
+Validation accuracy at epoch 80: 0.8237439393997192
+[I] Validating at epoch 80 finished in 3.126 s.
+[I] Epoch 81 :  started.
+Training loss at step 0: 0.08853865414857864, accuracy: 0.9375
+Training loss at step 100: 0.016827285289764404, accuracy: 0.9931930899620056
+Training loss at step 200: 0.018128881230950356, accuracy: 0.9937810897827148
+Training loss at step 300: 0.01823035441339016, accuracy: 0.9935631155967712
+Training loss at epoch 81: 0.01792595162987709
+Training accuracy at epoch 81: 0.99365234375
+[I] Epoch 81 :  finished in 42.646 s.
+[I] Validating at epoch 81 started.
+Validation loss at epoch 81: 1.127104640007019
+Validation accuracy at epoch 81: 0.8273906111717224
+[I] Validating at epoch 81 finished in 3.159 s.
+[I] Epoch 82 :  started.
+Training loss at step 0: 0.014908206649124622, accuracy: 1.0
+Training loss at step 100: 0.015563848428428173, accuracy: 0.9953588843345642
+Training loss at step 200: 0.017018478363752365, accuracy: 0.9948694109916687
+Training loss at step 300: 0.015668755397200584, accuracy: 0.9948089718818665
+Training loss at epoch 82: 0.015506759285926819
+Training accuracy at epoch 82: 0.994824230670929
+[I] Epoch 82 :  finished in 42.390 s.
+[I] Validating at epoch 82 started.
+Validation loss at epoch 82: 1.1943262815475464
+Validation accuracy at epoch 82: 0.835494339466095
+[I] Validating at epoch 82 finished in 3.111 s.
+[I] Epoch 83 :  started.
+Training loss at step 0: 0.023521117866039276, accuracy: 1.0
+Training loss at step 100: 0.018376212567090988, accuracy: 0.9938119053840637
+Training loss at step 200: 0.018584951758384705, accuracy: 0.9925373196601868
+Training loss at step 300: 0.016793914139270782, accuracy: 0.9939783811569214
+Training loss at epoch 83: 0.01724923960864544
+Training accuracy at epoch 83: 0.993847668170929
+[I] Epoch 83 :  finished in 42.439 s.
+[I] Validating at epoch 83 started.
+Validation loss at epoch 83: 1.1650866270065308
+Validation accuracy at epoch 83: 0.8249594569206238
+[I] Validating at epoch 83 finished in 3.144 s.
+[I] Epoch 84 :  started.
+Training loss at step 0: 0.021837688982486725, accuracy: 1.0
+Training loss at step 100: 0.013686287216842175, accuracy: 0.9953588843345642
+Training loss at step 200: 0.016650423407554626, accuracy: 0.9939365386962891
+Training loss at step 300: 0.01879754662513733, accuracy: 0.9933554530143738
+Training loss at epoch 84: 0.01889675483107567
+Training accuracy at epoch 84: 0.9931640625
+[I] Epoch 84 :  finished in 42.494 s.
+[I] Validating at epoch 84 started.
+Validation loss at epoch 84: 1.3436156511306763
+Validation accuracy at epoch 84: 0.8172609210014343
+[I] Validating at epoch 84 finished in 3.156 s.
+[I] Epoch 85 :  started.
+Training loss at step 0: 0.0024788943119347095, accuracy: 1.0
+Training loss at step 100: 0.02085932344198227, accuracy: 0.9931930899620056
+Training loss at step 200: 0.020544879138469696, accuracy: 0.9933146834373474
+Training loss at step 300: 0.02064569480717182, accuracy: 0.9929401874542236
+Training loss at epoch 85: 0.020223036408424377
+Training accuracy at epoch 85: 0.992968738079071
+[I] Epoch 85 :  finished in 42.431 s.
+[I] Validating at epoch 85 started.
+Validation loss at epoch 85: 1.2986654043197632
+Validation accuracy at epoch 85: 0.8245543241500854
+[I] Validating at epoch 85 finished in 3.142 s.
+[I] Epoch 86 :  started.
+Training loss at step 0: 0.006680574733763933, accuracy: 1.0
+Training loss at step 100: 0.014178426936268806, accuracy: 0.9950494766235352
+Training loss at step 200: 0.017572659999132156, accuracy: 0.9940920472145081
+Training loss at step 300: 0.021052146330475807, accuracy: 0.9931478500366211
+Training loss at epoch 86: 0.02094210498034954
+Training accuracy at epoch 86: 0.9930664300918579
+[I] Epoch 86 :  finished in 42.455 s.
+[I] Validating at epoch 86 started.
+Validation loss at epoch 86: 1.2491599321365356
+Validation accuracy at epoch 86: 0.8298217058181763
+[I] Validating at epoch 86 finished in 3.153 s.
+[I] Epoch 87 :  started.
+Training loss at step 0: 0.00939919613301754, accuracy: 1.0
+Training loss at step 100: 0.012025660835206509, accuracy: 0.9962871074676514
+Training loss at step 200: 0.015064292587339878, accuracy: 0.9947139024734497
+Training loss at step 300: 0.017881307750940323, accuracy: 0.9938746094703674
+Training loss at epoch 87: 0.01823090761899948
+Training accuracy at epoch 87: 0.9937499761581421
+[I] Epoch 87 :  finished in 42.542 s.
+[I] Validating at epoch 87 started.
+Validation loss at epoch 87: 1.3241223096847534
+Validation accuracy at epoch 87: 0.8192868828773499
+[I] Validating at epoch 87 finished in 3.139 s.
+[I] Epoch 88 :  started.
+Training loss at step 0: 0.010213345289230347, accuracy: 1.0
+Training loss at step 100: 0.011717336252331734, accuracy: 0.9969059228897095
+Training loss at step 200: 0.01434989832341671, accuracy: 0.9958022236824036
+Training loss at step 300: 0.01657017506659031, accuracy: 0.994601309299469
+Training loss at epoch 88: 0.016448911279439926
+Training accuracy at epoch 88: 0.9945312738418579
+[I] Epoch 88 :  finished in 42.612 s.
+[I] Validating at epoch 88 started.
+Validation loss at epoch 88: 1.22887122631073
+Validation accuracy at epoch 88: 0.8265802264213562
+[I] Validating at epoch 88 finished in 3.150 s.
+[I] Epoch 89 :  started.
+Training loss at step 0: 0.001011632732115686, accuracy: 1.0
+Training loss at step 100: 0.017008313909173012, accuracy: 0.9950494766235352
+Training loss at step 200: 0.019170643761754036, accuracy: 0.9936256408691406
+Training loss at step 300: 0.017613261938095093, accuracy: 0.9941860437393188
+Training loss at epoch 89: 0.01749984547495842
+Training accuracy at epoch 89: 0.9942382574081421
+[I] Epoch 89 :  finished in 42.453 s.
+[I] Validating at epoch 89 started.
+Validation loss at epoch 89: 1.1620477437973022
+Validation accuracy at epoch 89: 0.8302268981933594
+[I] Validating at epoch 89 finished in 3.077 s.
+[I] Epoch 90 :  started.
+Training loss at step 0: 0.04384126141667366, accuracy: 0.96875
+Training loss at step 100: 0.016577206552028656, accuracy: 0.9947401285171509
+Training loss at step 200: 0.01630130410194397, accuracy: 0.9942474961280823
+Training loss at step 300: 0.014631323516368866, accuracy: 0.9949128031730652
+Training loss at epoch 90: 0.01420981902629137
+Training accuracy at epoch 90: 0.9951171875
+[I] Epoch 90 :  finished in 42.218 s.
+[I] Validating at epoch 90 started.
+Validation loss at epoch 90: 1.1468456983566284
+Validation accuracy at epoch 90: 0.8395462036132812
+[I] Validating at epoch 90 finished in 3.116 s.
+[I] Epoch 91 :  started.
+Training loss at step 0: 0.001075779553502798, accuracy: 1.0
+Training loss at step 100: 0.017334207892417908, accuracy: 0.9950494766235352
+Training loss at step 200: 0.01838485710322857, accuracy: 0.9939365386962891
+Training loss at step 300: 0.01730925217270851, accuracy: 0.9949128031730652
+Training loss at epoch 91: 0.017095956951379776
+Training accuracy at epoch 91: 0.994921863079071
+[I] Epoch 91 :  finished in 42.228 s.
+[I] Validating at epoch 91 started.
+Validation loss at epoch 91: 1.213366150856018
+Validation accuracy at epoch 91: 0.8379254341125488
+[I] Validating at epoch 91 finished in 3.141 s.
+[I] Epoch 92 :  started.
+Training loss at step 0: 0.001041203155182302, accuracy: 1.0
+Training loss at step 100: 0.01927500031888485, accuracy: 0.9938119053840637
+Training loss at step 200: 0.017558295279741287, accuracy: 0.9948694109916687
+Training loss at step 300: 0.01597725972533226, accuracy: 0.9950166344642639
+Training loss at epoch 92: 0.01564616523683071
+Training accuracy at epoch 92: 0.9951171875
+[I] Epoch 92 :  finished in 42.393 s.
+[I] Validating at epoch 92 started.
+Validation loss at epoch 92: 1.3012288808822632
+Validation accuracy at epoch 92: 0.8217179775238037
+[I] Validating at epoch 92 finished in 3.111 s.
+[I] Epoch 93 :  started.
+Training loss at step 0: 0.045240968465805054, accuracy: 0.96875
+Training loss at step 100: 0.014249186962842941, accuracy: 0.9950494766235352
+Training loss at step 200: 0.01707405224442482, accuracy: 0.9944030046463013
+Training loss at step 300: 0.018388371914625168, accuracy: 0.9937707781791687
+Training loss at epoch 93: 0.018323609605431557
+Training accuracy at epoch 93: 0.9937499761581421
+[I] Epoch 93 :  finished in 42.492 s.
+[I] Validating at epoch 93 started.
+Validation loss at epoch 93: 1.379983901977539
+Validation accuracy at epoch 93: 0.8184764981269836
+[I] Validating at epoch 93 finished in 3.116 s.
+[I] Epoch 94 :  started.
+Training loss at step 0: 0.07180830836296082, accuracy: 0.96875
+Training loss at step 100: 0.024551445618271828, accuracy: 0.9925742745399475
+Training loss at step 200: 0.021936306729912758, accuracy: 0.99284827709198
+Training loss at step 300: 0.0200577974319458, accuracy: 0.9937707781791687
+Training loss at epoch 94: 0.020251121371984482
+Training accuracy at epoch 94: 0.99365234375
+[I] Epoch 94 :  finished in 42.466 s.
+[I] Validating at epoch 94 started.
+Validation loss at epoch 94: 1.168717384338379
+Validation accuracy at epoch 94: 0.835494339466095
+[I] Validating at epoch 94 finished in 3.036 s.
+[I] Epoch 95 :  started.
+Training loss at step 0: 0.004140778444707394, accuracy: 1.0
+Training loss at step 100: 0.016977457329630852, accuracy: 0.9931930899620056
+Training loss at step 200: 0.01526596024632454, accuracy: 0.9950248599052429
+Training loss at step 300: 0.015686877071857452, accuracy: 0.994497537612915
+Training loss at epoch 95: 0.016134953126311302
+Training accuracy at epoch 95: 0.9942382574081421
+[I] Epoch 95 :  finished in 42.320 s.
+[I] Validating at epoch 95 started.
+Validation loss at epoch 95: 1.3683385848999023
+Validation accuracy at epoch 95: 0.8298217058181763
+[I] Validating at epoch 95 finished in 3.129 s.
+[I] Epoch 96 :  started.
+Training loss at step 0: 0.008945079520344734, accuracy: 1.0
+Training loss at step 100: 0.024023879319429398, accuracy: 0.9928836822509766
+Training loss at step 200: 0.019778413698077202, accuracy: 0.9936256408691406
+Training loss at step 300: 0.017296116799116135, accuracy: 0.9943937063217163
+Training loss at epoch 96: 0.016802506521344185
+Training accuracy at epoch 96: 0.9945312738418579
+[I] Epoch 96 :  finished in 42.568 s.
+[I] Validating at epoch 96 started.
+Validation loss at epoch 96: 1.221463680267334
+Validation accuracy at epoch 96: 0.8346839547157288
+[I] Validating at epoch 96 finished in 3.123 s.
+[I] Epoch 97 :  started.
+Training loss at step 0: 0.004456938244402409, accuracy: 1.0
+Training loss at step 100: 0.014406796544790268, accuracy: 0.9959776997566223
+Training loss at step 200: 0.014423135668039322, accuracy: 0.9961131811141968
+Training loss at step 300: 0.014404285699129105, accuracy: 0.9958471655845642
+Training loss at epoch 97: 0.014077400788664818
+Training accuracy at epoch 97: 0.995800793170929
+[I] Epoch 97 :  finished in 42.531 s.
+[I] Validating at epoch 97 started.
+Validation loss at epoch 97: 1.251929759979248
+Validation accuracy at epoch 97: 0.8306320905685425
+[I] Validating at epoch 97 finished in 3.088 s.
+[I] Epoch 98 :  started.
+Training loss at step 0: 0.0980127826333046, accuracy: 0.96875
+Training loss at step 100: 0.015113428235054016, accuracy: 0.9947401285171509
+Training loss at step 200: 0.012846375815570354, accuracy: 0.9958022236824036
+Training loss at step 300: 0.013855576515197754, accuracy: 0.9950166344642639
+Training loss at epoch 98: 0.013588884845376015
+Training accuracy at epoch 98: 0.9952148199081421
+[I] Epoch 98 :  finished in 42.129 s.
+[I] Validating at epoch 98 started.
+Validation loss at epoch 98: 1.2408082485198975
+Validation accuracy at epoch 98: 0.8338735699653625
+[I] Validating at epoch 98 finished in 3.090 s.
+[I] Epoch 99 :  started.
+Training loss at step 0: 0.000869635259732604, accuracy: 1.0
+Training loss at step 100: 0.01557149738073349, accuracy: 0.9935024976730347
+Training loss at step 200: 0.0154008399695158, accuracy: 0.9939365386962891
+Training loss at step 300: 0.015532764606177807, accuracy: 0.9942898750305176
+Training loss at epoch 99: 0.015047244727611542
+Training accuracy at epoch 99: 0.99462890625
+[I] Epoch 99 :  finished in 42.300 s.
+[I] Validating at epoch 99 started.
+Validation loss at epoch 99: 1.1888796091079712
+Validation accuracy at epoch 99: 0.8358995318412781
+[I] Validating at epoch 99 finished in 3.139 s.
+[I] Epoch 100 :  started.
+Training loss at step 0: 0.0022920300252735615, accuracy: 1.0
+Training loss at step 100: 0.012067259289324284, accuracy: 0.9959776997566223
+Training loss at step 200: 0.011434243060648441, accuracy: 0.9965795874595642
+Training loss at step 300: 0.009529697708785534, accuracy: 0.9971968531608582
+Training loss at epoch 100: 0.009401138871908188
+Training accuracy at epoch 100: 0.9971679449081421
+[I] Epoch 100 :  finished in 42.447 s.
+[I] Validating at epoch 100 started.
+Validation loss at epoch 100: 1.2041698694229126
+Validation accuracy at epoch 100: 0.8375202417373657
+[I] Validating at epoch 100 finished in 3.146 s.
+[I] Epoch 101 :  started.
+Training loss at step 0: 0.0005000869277864695, accuracy: 1.0
+Training loss at step 100: 0.01064503937959671, accuracy: 0.9965965151786804
+Training loss at step 200: 0.010758130811154842, accuracy: 0.9961131811141968
+Training loss at step 300: 0.01089178491383791, accuracy: 0.9960548281669617
+Training loss at epoch 101: 0.01052817702293396
+Training accuracy at epoch 101: 0.9961913824081421
+[I] Epoch 101 :  finished in 42.790 s.
+[I] Validating at epoch 101 started.
+Validation loss at epoch 101: 1.2149497270584106
+Validation accuracy at epoch 101: 0.8399513959884644
+[I] Validating at epoch 101 finished in 3.007 s.
+[I] Epoch 102 :  started.
+Training loss at step 0: 0.0016281470889225602, accuracy: 1.0
+Training loss at step 100: 0.0077827004715800285, accuracy: 0.9975247383117676
+Training loss at step 200: 0.007246962282806635, accuracy: 0.9979788661003113
+Training loss at step 300: 0.008733676746487617, accuracy: 0.9973006844520569
+Training loss at epoch 102: 0.008580813184380531
+Training accuracy at epoch 102: 0.997265636920929
+[I] Epoch 102 :  finished in 42.808 s.
+[I] Validating at epoch 102 started.
+Validation loss at epoch 102: 1.3661357164382935
+Validation accuracy at epoch 102: 0.8294165134429932
+[I] Validating at epoch 102 finished in 3.128 s.
+[I] Epoch 103 :  started.
+Training loss at step 0: 0.0061359703540802, accuracy: 1.0
+Training loss at step 100: 0.00572599284350872, accuracy: 0.9984529614448547
+Training loss at step 200: 0.005892537534236908, accuracy: 0.9986007213592529
+Training loss at step 300: 0.007200164254754782, accuracy: 0.9980273842811584
+Training loss at epoch 103: 0.007669231854379177
+Training accuracy at epoch 103: 0.997851550579071
+[I] Epoch 103 :  finished in 42.510 s.
+[I] Validating at epoch 103 started.
+Validation loss at epoch 103: 1.2607582807540894
+Validation accuracy at epoch 103: 0.8411669135093689
+[I] Validating at epoch 103 finished in 3.161 s.
+Save model ... 
+[I] Epoch 104 :  started.
+Training loss at step 0: 0.014918711967766285, accuracy: 1.0
+Training loss at step 100: 0.012037933804094791, accuracy: 0.9959776997566223
+Training loss at step 200: 0.0103004677221179, accuracy: 0.9961131811141968
+Training loss at step 300: 0.01203425694257021, accuracy: 0.9958471655845642
+Training loss at epoch 104: 0.011937211267650127
+Training accuracy at epoch 104: 0.995800793170929
+[I] Epoch 104 :  finished in 42.409 s.
+[I] Validating at epoch 104 started.
+Validation loss at epoch 104: 1.194253921508789
+Validation accuracy at epoch 104: 0.8411669135093689
+[I] Validating at epoch 104 finished in 3.144 s.
+[I] Epoch 105 :  started.
+Training loss at step 0: 0.001411827513948083, accuracy: 1.0
+Training loss at step 100: 0.004219398833811283, accuracy: 0.999690592288971
+Training loss at step 200: 0.00637027807533741, accuracy: 0.9981343150138855
+Training loss at step 300: 0.006600340828299522, accuracy: 0.9980273842811584
+Training loss at epoch 105: 0.006480810698121786
+Training accuracy at epoch 105: 0.998046875
+[I] Epoch 105 :  finished in 42.662 s.
+[I] Validating at epoch 105 started.
+Validation loss at epoch 105: 1.2708508968353271
+Validation accuracy at epoch 105: 0.8379254341125488
+[I] Validating at epoch 105 finished in 3.137 s.
+[I] Epoch 106 :  started.
+Training loss at step 0: 0.0024657417088747025, accuracy: 1.0
+Training loss at step 100: 0.008224367164075375, accuracy: 0.9972153306007385
+Training loss at step 200: 0.011075552552938461, accuracy: 0.996268630027771
+Training loss at step 300: 0.013013286516070366, accuracy: 0.9961586594581604
+Training loss at epoch 106: 0.013540317304432392
+Training accuracy at epoch 106: 0.995800793170929
+[I] Epoch 106 :  finished in 42.628 s.
+[I] Validating at epoch 106 started.
+Validation loss at epoch 106: 1.2865831851959229
+Validation accuracy at epoch 106: 0.8290113210678101
+[I] Validating at epoch 106 finished in 3.141 s.
+[I] Epoch 107 :  started.
+Training loss at step 0: 0.007063806522637606, accuracy: 1.0
+Training loss at step 100: 0.015468924306333065, accuracy: 0.9947401285171509
+Training loss at step 200: 0.014092480763792992, accuracy: 0.9953358173370361
+Training loss at step 300: 0.012042542919516563, accuracy: 0.9959509968757629
+Training loss at epoch 107: 0.012188447639346123
+Training accuracy at epoch 107: 0.995800793170929
+[I] Epoch 107 :  finished in 42.413 s.
+[I] Validating at epoch 107 started.
+Validation loss at epoch 107: 1.527295708656311
+Validation accuracy at epoch 107: 0.8237439393997192
+[I] Validating at epoch 107 finished in 3.150 s.
+[I] Epoch 108 :  started.
+Training loss at step 0: 0.0017824760871008039, accuracy: 1.0
+Training loss at step 100: 0.016602447256445885, accuracy: 0.9950494766235352
+Training loss at step 200: 0.012373794801533222, accuracy: 0.996268630027771
+Training loss at step 300: 0.011276321485638618, accuracy: 0.9965739250183105
+Training loss at epoch 108: 0.011196454986929893
+Training accuracy at epoch 108: 0.9966796636581421
+[I] Epoch 108 :  finished in 42.707 s.
+[I] Validating at epoch 108 started.
+Validation loss at epoch 108: 1.2326346635818481
+Validation accuracy at epoch 108: 0.841572105884552
+[I] Validating at epoch 108 finished in 3.149 s.
+Save model ... 
+[I] Epoch 109 :  started.
+Training loss at step 0: 0.0019534765742719173, accuracy: 1.0
+Training loss at step 100: 0.007924830541014671, accuracy: 0.9969059228897095
+Training loss at step 200: 0.0075229862704873085, accuracy: 0.9970459938049316
+Training loss at step 300: 0.008121244609355927, accuracy: 0.9973006844520569
+Training loss at epoch 109: 0.007885992527008057
+Training accuracy at epoch 109: 0.997363269329071
+[I] Epoch 109 :  finished in 42.315 s.
+[I] Validating at epoch 109 started.
+Validation loss at epoch 109: 1.2269515991210938
+Validation accuracy at epoch 109: 0.8444084525108337
+[I] Validating at epoch 109 finished in 3.173 s.
+Save model ... 
+[I] Epoch 110 :  started.
+Training loss at step 0: 0.0029797733295708895, accuracy: 1.0
+Training loss at step 100: 0.006722856312990189, accuracy: 0.9984529614448547
+Training loss at step 200: 0.00824666302651167, accuracy: 0.9975124597549438
+Training loss at step 300: 0.00794947613030672, accuracy: 0.9971968531608582
+Training loss at epoch 110: 0.007904992438852787
+Training accuracy at epoch 110: 0.9970703125
+[I] Epoch 110 :  finished in 42.678 s.
+[I] Validating at epoch 110 started.
+Validation loss at epoch 110: 1.278405785560608
+Validation accuracy at epoch 110: 0.8371150493621826
+[I] Validating at epoch 110 finished in 3.127 s.
+[I] Epoch 111 :  started.
+Training loss at step 0: 0.00040650961454957724, accuracy: 1.0
+Training loss at step 100: 0.009688257239758968, accuracy: 0.9962871074676514
+Training loss at step 200: 0.007946711033582687, accuracy: 0.9973569512367249
+Training loss at step 300: 0.008622685447335243, accuracy: 0.9971968531608582
+Training loss at epoch 111: 0.009903461672365665
+Training accuracy at epoch 111: 0.996777355670929
+[I] Epoch 111 :  finished in 42.621 s.
+[I] Validating at epoch 111 started.
+Validation loss at epoch 111: 1.3319432735443115
+Validation accuracy at epoch 111: 0.8346839547157288
+[I] Validating at epoch 111 finished in 3.136 s.
+[I] Epoch 112 :  started.
+Training loss at step 0: 0.0022392342798411846, accuracy: 1.0
+Training loss at step 100: 0.011098044924438, accuracy: 0.9969059228897095
+Training loss at step 200: 0.015075348317623138, accuracy: 0.9950248599052429
+Training loss at step 300: 0.013627929612994194, accuracy: 0.9952242374420166
+Training loss at epoch 112: 0.013317329809069633
+Training accuracy at epoch 112: 0.995410144329071
+[I] Epoch 112 :  finished in 42.208 s.
+[I] Validating at epoch 112 started.
+Validation loss at epoch 112: 1.3924301862716675
+Validation accuracy at epoch 112: 0.8265802264213562
+[I] Validating at epoch 112 finished in 3.141 s.
+[I] Epoch 113 :  started.
+Training loss at step 0: 0.0013214247301220894, accuracy: 1.0
+Training loss at step 100: 0.0075187101028859615, accuracy: 0.9972153306007385
+Training loss at step 200: 0.0066986167803406715, accuracy: 0.9979788661003113
+Training loss at step 300: 0.007406363729387522, accuracy: 0.997715950012207
+Training loss at epoch 113: 0.008562988601624966
+Training accuracy at epoch 113: 0.997265636920929
+[I] Epoch 113 :  finished in 42.275 s.
+[I] Validating at epoch 113 started.
+Validation loss at epoch 113: 1.2791178226470947
+Validation accuracy at epoch 113: 0.8277958035469055
+[I] Validating at epoch 113 finished in 3.147 s.
+[I] Epoch 114 :  started.
+Training loss at step 0: 0.0014229526277631521, accuracy: 1.0
+Training loss at step 100: 0.009138771332800388, accuracy: 0.9972153306007385
+Training loss at step 200: 0.010179737582802773, accuracy: 0.9959577322006226
+Training loss at step 300: 0.011011187918484211, accuracy: 0.9958471655845642
+Training loss at epoch 114: 0.010777423158288002
+Training accuracy at epoch 114: 0.995898425579071
+[I] Epoch 114 :  finished in 42.189 s.
+[I] Validating at epoch 114 started.
+Validation loss at epoch 114: 1.297214388847351
+Validation accuracy at epoch 114: 0.8221231698989868
+[I] Validating at epoch 114 finished in 3.136 s.
+[I] Epoch 115 :  started.
+Training loss at step 0: 0.0257393978536129, accuracy: 0.96875
+Training loss at step 100: 0.013548965565860271, accuracy: 0.9950494766235352
+Training loss at step 200: 0.013229657895863056, accuracy: 0.9954912662506104
+Training loss at step 300: 0.011983092874288559, accuracy: 0.9960548281669617
+Training loss at epoch 115: 0.011827293783426285
+Training accuracy at epoch 115: 0.99609375
+[I] Epoch 115 :  finished in 42.365 s.
+[I] Validating at epoch 115 started.
+Validation loss at epoch 115: 1.392760992050171
+Validation accuracy at epoch 115: 0.8237439393997192
+[I] Validating at epoch 115 finished in 3.119 s.
+[I] Epoch 116 :  started.
+Training loss at step 0: 0.0018048196798190475, accuracy: 1.0
+Training loss at step 100: 0.01847197115421295, accuracy: 0.9944307208061218
+Training loss at step 200: 0.01298550795763731, accuracy: 0.996268630027771
+Training loss at step 300: 0.012907592579722404, accuracy: 0.9962624311447144
+Training loss at epoch 116: 0.012421853840351105
+Training accuracy at epoch 116: 0.996386706829071
+[I] Epoch 116 :  finished in 42.292 s.
+[I] Validating at epoch 116 started.
+Validation loss at epoch 116: 1.3133279085159302
+Validation accuracy at epoch 116: 0.8330631852149963
+[I] Validating at epoch 116 finished in 3.141 s.
+[I] Epoch 117 :  started.
+Training loss at step 0: 0.037677086889743805, accuracy: 0.96875
+Training loss at step 100: 0.010453889146447182, accuracy: 0.9959776997566223
+Training loss at step 200: 0.007703622803092003, accuracy: 0.9973569512367249
+Training loss at step 300: 0.007940303534269333, accuracy: 0.9970930218696594
+Training loss at epoch 117: 0.007788189686834812
+Training accuracy at epoch 117: 0.997265636920929
+[I] Epoch 117 :  finished in 42.496 s.
+[I] Validating at epoch 117 started.
+Validation loss at epoch 117: 1.3796733617782593
+Validation accuracy at epoch 117: 0.8273906111717224
+[I] Validating at epoch 117 finished in 3.128 s.
+[I] Epoch 118 :  started.
+Training loss at step 0: 0.0018022619187831879, accuracy: 1.0
+Training loss at step 100: 0.008460217155516148, accuracy: 0.9981435537338257
+Training loss at step 200: 0.010439067147672176, accuracy: 0.9976679086685181
+Training loss at step 300: 0.012142452411353588, accuracy: 0.9966777563095093
+Training loss at epoch 118: 0.011848948895931244
+Training accuracy at epoch 118: 0.996777355670929
+[I] Epoch 118 :  finished in 42.144 s.
+[I] Validating at epoch 118 started.
+Validation loss at epoch 118: 1.3168549537658691
+Validation accuracy at epoch 118: 0.8363047242164612
+[I] Validating at epoch 118 finished in 3.138 s.
+[I] Epoch 119 :  started.
+Training loss at step 0: 0.006962622981518507, accuracy: 1.0
+Training loss at step 100: 0.0055417874827980995, accuracy: 0.9981435537338257
+Training loss at step 200: 0.006536203436553478, accuracy: 0.9979788661003113
+Training loss at step 300: 0.005837194621562958, accuracy: 0.9981312155723572
+Training loss at epoch 119: 0.006232887972146273
+Training accuracy at epoch 119: 0.997851550579071
+[I] Epoch 119 :  finished in 42.289 s.
+[I] Validating at epoch 119 started.
+Validation loss at epoch 119: 1.3118067979812622
+Validation accuracy at epoch 119: 0.832658052444458
+[I] Validating at epoch 119 finished in 3.121 s.
+[I] Epoch 120 :  started.
+Training loss at step 0: 0.0010747951455414295, accuracy: 1.0
+Training loss at step 100: 0.008725172840058804, accuracy: 0.9972153306007385
+Training loss at step 200: 0.0072081321850419044, accuracy: 0.9976679086685181
+Training loss at step 300: 0.009197967126965523, accuracy: 0.996781587600708
+Training loss at epoch 120: 0.009741699323058128
+Training accuracy at epoch 120: 0.99658203125
+[I] Epoch 120 :  finished in 42.221 s.
+[I] Validating at epoch 120 started.
+Validation loss at epoch 120: 1.3746898174285889
+Validation accuracy at epoch 120: 0.8310372829437256
+[I] Validating at epoch 120 finished in 3.147 s.
+[I] Epoch 121 :  started.
+Training loss at step 0: 0.006934493780136108, accuracy: 1.0
+Training loss at step 100: 0.01280814129859209, accuracy: 0.9944307208061218
+Training loss at step 200: 0.01024138554930687, accuracy: 0.996268630027771
+Training loss at step 300: 0.00947106909006834, accuracy: 0.996781587600708
+Training loss at epoch 121: 0.009470205754041672
+Training accuracy at epoch 121: 0.996777355670929
+[I] Epoch 121 :  finished in 42.115 s.
+[I] Validating at epoch 121 started.
+Validation loss at epoch 121: 1.36775803565979
+Validation accuracy at epoch 121: 0.8241491317749023
+[I] Validating at epoch 121 finished in 3.136 s.
+[I] Epoch 122 :  started.
+Training loss at step 0: 0.0009006182081066072, accuracy: 1.0
+Training loss at step 100: 0.014584904536604881, accuracy: 0.9941213130950928
+Training loss at step 200: 0.015853703022003174, accuracy: 0.9944030046463013
+Training loss at step 300: 0.013436611741781235, accuracy: 0.9953280687332153
+Training loss at epoch 122: 0.012931478209793568
+Training accuracy at epoch 122: 0.9955078363418579
+[I] Epoch 122 :  finished in 42.458 s.
+[I] Validating at epoch 122 started.
+Validation loss at epoch 122: 1.2732487916946411
+Validation accuracy at epoch 122: 0.8286061882972717
+[I] Validating at epoch 122 finished in 3.116 s.
+[I] Epoch 123 :  started.
+Training loss at step 0: 0.0029025136027485132, accuracy: 1.0
+Training loss at step 100: 0.006597600411623716, accuracy: 0.9978341460227966
+Training loss at step 200: 0.0074695716612041, accuracy: 0.9973569512367249
+Training loss at step 300: 0.008281770162284374, accuracy: 0.9970930218696594
+Training loss at epoch 123: 0.008200972341001034
+Training accuracy at epoch 123: 0.9971679449081421
+[I] Epoch 123 :  finished in 42.471 s.
+[I] Validating at epoch 123 started.
+Validation loss at epoch 123: 1.2642351388931274
+Validation accuracy at epoch 123: 0.8403565883636475
+[I] Validating at epoch 123 finished in 3.132 s.
+[I] Epoch 124 :  started.
+Training loss at step 0: 0.007286943960934877, accuracy: 1.0
+Training loss at step 100: 0.00875097792595625, accuracy: 0.9975247383117676
+Training loss at step 200: 0.007508848328143358, accuracy: 0.9978233575820923
+Training loss at step 300: 0.009047736413776875, accuracy: 0.996781587600708
+Training loss at epoch 124: 0.010016318410634995
+Training accuracy at epoch 124: 0.9964843988418579
+[I] Epoch 124 :  finished in 42.569 s.
+[I] Validating at epoch 124 started.
+Validation loss at epoch 124: 1.3693119287490845
+Validation accuracy at epoch 124: 0.8302268981933594
+[I] Validating at epoch 124 finished in 3.050 s.
+[I] Epoch 125 :  started.
+Training loss at step 0: 0.005926800891757011, accuracy: 1.0
+Training loss at step 100: 0.010989437811076641, accuracy: 0.9959776997566223
+Training loss at step 200: 0.008091594092547894, accuracy: 0.9975124597549438
+Training loss at step 300: 0.008506870828568935, accuracy: 0.9971968531608582
+Training loss at epoch 125: 0.008399559184908867
+Training accuracy at epoch 125: 0.9971679449081421
+[I] Epoch 125 :  finished in 42.465 s.
+[I] Validating at epoch 125 started.
+Validation loss at epoch 125: 1.3214300870895386
+Validation accuracy at epoch 125: 0.8330631852149963
+[I] Validating at epoch 125 finished in 3.121 s.
+[I] Epoch 126 :  started.
+Training loss at step 0: 0.0005046151345595717, accuracy: 1.0
+Training loss at step 100: 0.007201696280390024, accuracy: 0.9975247383117676
+Training loss at step 200: 0.005093637388199568, accuracy: 0.9984452724456787
+Training loss at step 300: 0.006857100408524275, accuracy: 0.9979236125946045
+Training loss at epoch 126: 0.00662205507978797
+Training accuracy at epoch 126: 0.998046875
+[I] Epoch 126 :  finished in 42.535 s.
+[I] Validating at epoch 126 started.
+Validation loss at epoch 126: 1.3186408281326294
+Validation accuracy at epoch 126: 0.8346839547157288
+[I] Validating at epoch 126 finished in 3.156 s.
+[I] Epoch 127 :  started.
+Training loss at step 0: 0.026672951877117157, accuracy: 0.96875
+Training loss at step 100: 0.00830773450434208, accuracy: 0.9965965151786804
+Training loss at step 200: 0.007736025843769312, accuracy: 0.9970459938049316
+Training loss at step 300: 0.006864516995847225, accuracy: 0.9973006844520569
+Training loss at epoch 127: 0.006525610573589802
+Training accuracy at epoch 127: 0.9974609613418579
+[I] Epoch 127 :  finished in 42.536 s.
+[I] Validating at epoch 127 started.
+Validation loss at epoch 127: 1.2775027751922607
+Validation accuracy at epoch 127: 0.835494339466095
+[I] Validating at epoch 127 finished in 3.129 s.
+[I] Epoch 128 :  started.
+Training loss at step 0: 0.021139731630682945, accuracy: 1.0
+Training loss at step 100: 0.0051756808534264565, accuracy: 0.9975247383117676
+Training loss at step 200: 0.004147310741245747, accuracy: 0.9984452724456787
+Training loss at step 300: 0.003604081692174077, accuracy: 0.998650312423706
+Training loss at epoch 128: 0.003750672098249197
+Training accuracy at epoch 128: 0.9986327886581421
+[I] Epoch 128 :  finished in 42.406 s.
+[I] Validating at epoch 128 started.
+Validation loss at epoch 128: 1.3039406538009644
+Validation accuracy at epoch 128: 0.8310372829437256
+[I] Validating at epoch 128 finished in 2.990 s.
+[I] Epoch 129 :  started.
+Training loss at step 0: 0.004056816454976797, accuracy: 1.0
+Training loss at step 100: 0.005753699690103531, accuracy: 0.9978341460227966
+Training loss at step 200: 0.0058037955313920975, accuracy: 0.9976679086685181
+Training loss at step 300: 0.005622406955808401, accuracy: 0.9980273842811584
+Training loss at epoch 129: 0.005451324861496687
+Training accuracy at epoch 129: 0.9981445074081421
+[I] Epoch 129 :  finished in 42.411 s.
+[I] Validating at epoch 129 started.
+Validation loss at epoch 129: 1.3117057085037231
+Validation accuracy at epoch 129: 0.8391410112380981
+[I] Validating at epoch 129 finished in 3.139 s.
+[I] Epoch 130 :  started.
+Training loss at step 0: 0.00034793405211530626, accuracy: 1.0
+Training loss at step 100: 0.006155813578516245, accuracy: 0.9978341460227966
+Training loss at step 200: 0.00702422671020031, accuracy: 0.9978233575820923
+Training loss at step 300: 0.006102810613811016, accuracy: 0.9980273842811584
+Training loss at epoch 130: 0.005833017639815807
+Training accuracy at epoch 130: 0.9981445074081421
+[I] Epoch 130 :  finished in 42.470 s.
+[I] Validating at epoch 130 started.
+Validation loss at epoch 130: 1.3168809413909912
+Validation accuracy at epoch 130: 0.8363047242164612
+[I] Validating at epoch 130 finished in 3.137 s.
+[I] Epoch 131 :  started.
+Training loss at step 0: 0.06441110372543335, accuracy: 0.96875
+Training loss at step 100: 0.005931878928095102, accuracy: 0.9978341460227966
+Training loss at step 200: 0.006175619550049305, accuracy: 0.9976679086685181
+Training loss at step 300: 0.007388882339000702, accuracy: 0.9970930218696594
+Training loss at epoch 131: 0.007526331581175327
+Training accuracy at epoch 131: 0.9970703125
+[I] Epoch 131 :  finished in 42.010 s.
+[I] Validating at epoch 131 started.
+Validation loss at epoch 131: 1.3382954597473145
+Validation accuracy at epoch 131: 0.8367098569869995
+[I] Validating at epoch 131 finished in 3.158 s.
+[I] Epoch 132 :  started.
+Training loss at step 0: 0.0018331531900912523, accuracy: 1.0
+Training loss at step 100: 0.010127419605851173, accuracy: 0.9978341460227966
+Training loss at step 200: 0.008322933688759804, accuracy: 0.9978233575820923
+Training loss at step 300: 0.00797791313380003, accuracy: 0.9979236125946045
+Training loss at epoch 132: 0.007770145777612925
+Training accuracy at epoch 132: 0.9979492425918579
+[I] Epoch 132 :  finished in 42.617 s.
+[I] Validating at epoch 132 started.
+Validation loss at epoch 132: 1.26311457157135
+Validation accuracy at epoch 132: 0.8350891470909119
+[I] Validating at epoch 132 finished in 3.152 s.
+[I] Epoch 133 :  started.
+Training loss at step 0: 0.000447853613877669, accuracy: 1.0
+Training loss at step 100: 0.003777063451707363, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0032836932223290205, accuracy: 0.9989116787910461
+Training loss at step 300: 0.00355551321990788, accuracy: 0.998650312423706
+Training loss at epoch 133: 0.0034181431401520967
+Training accuracy at epoch 133: 0.998730480670929
+[I] Epoch 133 :  finished in 42.293 s.
+[I] Validating at epoch 133 started.
+Validation loss at epoch 133: 1.3482385873794556
+Validation accuracy at epoch 133: 0.8375202417373657
+[I] Validating at epoch 133 finished in 3.121 s.
+[I] Epoch 134 :  started.
+Training loss at step 0: 0.00018138403538614511, accuracy: 1.0
+Training loss at step 100: 0.00440544169396162, accuracy: 0.9981435537338257
+Training loss at step 200: 0.005387770012021065, accuracy: 0.9978233575820923
+Training loss at step 300: 0.006846135016530752, accuracy: 0.9973006844520569
+Training loss at epoch 134: 0.007257507648319006
+Training accuracy at epoch 134: 0.9970703125
+[I] Epoch 134 :  finished in 42.692 s.
+[I] Validating at epoch 134 started.
+Validation loss at epoch 134: 1.424080729484558
+Validation accuracy at epoch 134: 0.8294165134429932
+[I] Validating at epoch 134 finished in 3.167 s.
+[I] Epoch 135 :  started.
+Training loss at step 0: 0.003087335266172886, accuracy: 1.0
+Training loss at step 100: 0.00810803659260273, accuracy: 0.9969059228897095
+Training loss at step 200: 0.007691942621022463, accuracy: 0.9968905448913574
+Training loss at step 300: 0.007543941028416157, accuracy: 0.9973006844520569
+Training loss at epoch 135: 0.007405454758554697
+Training accuracy at epoch 135: 0.997363269329071
+[I] Epoch 135 :  finished in 42.605 s.
+[I] Validating at epoch 135 started.
+Validation loss at epoch 135: 1.4338490962982178
+Validation accuracy at epoch 135: 0.8184764981269836
+[I] Validating at epoch 135 finished in 3.159 s.
+[I] Epoch 136 :  started.
+Training loss at step 0: 0.12873245775699615, accuracy: 0.96875
+Training loss at step 100: 0.013297421857714653, accuracy: 0.9953588843345642
+Training loss at step 200: 0.010223534889519215, accuracy: 0.9965795874595642
+Training loss at step 300: 0.010815165005624294, accuracy: 0.9960548281669617
+Training loss at epoch 136: 0.010442523285746574
+Training accuracy at epoch 136: 0.9961913824081421
+[I] Epoch 136 :  finished in 42.312 s.
+[I] Validating at epoch 136 started.
+Validation loss at epoch 136: 1.326198697090149
+Validation accuracy at epoch 136: 0.8290113210678101
+[I] Validating at epoch 136 finished in 3.104 s.
+[I] Epoch 137 :  started.
+Training loss at step 0: 0.0009055041591636837, accuracy: 1.0
+Training loss at step 100: 0.005623695906251669, accuracy: 0.9975247383117676
+Training loss at step 200: 0.004768254701048136, accuracy: 0.9982898235321045
+Training loss at step 300: 0.00428878515958786, accuracy: 0.9985465407371521
+Training loss at epoch 137: 0.004148561507463455
+Training accuracy at epoch 137: 0.9986327886581421
+[I] Epoch 137 :  finished in 42.342 s.
+[I] Validating at epoch 137 started.
+Validation loss at epoch 137: 1.4049166440963745
+Validation accuracy at epoch 137: 0.8314424753189087
+[I] Validating at epoch 137 finished in 3.167 s.
+[I] Epoch 138 :  started.
+Training loss at step 0: 0.00041220372077077627, accuracy: 1.0
+Training loss at step 100: 0.0032575244549661875, accuracy: 0.9990717768669128
+Training loss at step 200: 0.004411076661199331, accuracy: 0.9984452724456787
+Training loss at step 300: 0.004619349259883165, accuracy: 0.9982350468635559
+Training loss at epoch 138: 0.004622125066816807
+Training accuracy at epoch 138: 0.998242199420929
+[I] Epoch 138 :  finished in 42.597 s.
+[I] Validating at epoch 138 started.
+Validation loss at epoch 138: 1.3750076293945312
+Validation accuracy at epoch 138: 0.8318476676940918
+[I] Validating at epoch 138 finished in 3.116 s.
+[I] Epoch 139 :  started.
+Training loss at step 0: 0.00029709868249483407, accuracy: 1.0
+Training loss at step 100: 0.002499191090464592, accuracy: 0.9993811845779419
+Training loss at step 200: 0.003217027522623539, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0033134070690721273, accuracy: 0.9991694092750549
+Training loss at epoch 139: 0.0036434188950806856
+Training accuracy at epoch 139: 0.9990234375
+[I] Epoch 139 :  finished in 42.529 s.
+[I] Validating at epoch 139 started.
+Validation loss at epoch 139: 1.3971246480941772
+Validation accuracy at epoch 139: 0.8375202417373657
+[I] Validating at epoch 139 finished in 3.176 s.
+[I] Epoch 140 :  started.
+Training loss at step 0: 0.0013326641637831926, accuracy: 1.0
+Training loss at step 100: 0.007708569522947073, accuracy: 0.9969059228897095
+Training loss at step 200: 0.00589024880900979, accuracy: 0.9976679086685181
+Training loss at step 300: 0.005059364717453718, accuracy: 0.9980273842811584
+Training loss at epoch 140: 0.004930038936436176
+Training accuracy at epoch 140: 0.998046875
+[I] Epoch 140 :  finished in 42.149 s.
+[I] Validating at epoch 140 started.
+Validation loss at epoch 140: 1.3500210046768188
+Validation accuracy at epoch 140: 0.8391410112380981
+[I] Validating at epoch 140 finished in 3.145 s.
+[I] Epoch 141 :  started.
+Training loss at step 0: 0.00031725672306492925, accuracy: 1.0
+Training loss at step 100: 0.006234990898519754, accuracy: 0.9978341460227966
+Training loss at step 200: 0.005233097821474075, accuracy: 0.9981343150138855
+Training loss at step 300: 0.0052392310462892056, accuracy: 0.9982350468635559
+Training loss at epoch 141: 0.005200801882892847
+Training accuracy at epoch 141: 0.998242199420929
+[I] Epoch 141 :  finished in 42.097 s.
+[I] Validating at epoch 141 started.
+Validation loss at epoch 141: 1.3971933126449585
+Validation accuracy at epoch 141: 0.8338735699653625
+[I] Validating at epoch 141 finished in 3.169 s.
+[I] Epoch 142 :  started.
+Training loss at step 0: 0.00024431952624581754, accuracy: 1.0
+Training loss at step 100: 0.008234266191720963, accuracy: 0.9978341460227966
+Training loss at step 200: 0.007381519302725792, accuracy: 0.9978233575820923
+Training loss at step 300: 0.006673614960163832, accuracy: 0.9979236125946045
+Training loss at epoch 142: 0.006713987793773413
+Training accuracy at epoch 142: 0.997851550579071
+[I] Epoch 142 :  finished in 41.848 s.
+[I] Validating at epoch 142 started.
+Validation loss at epoch 142: 1.4341449737548828
+Validation accuracy at epoch 142: 0.8294165134429932
+[I] Validating at epoch 142 finished in 3.119 s.
+[I] Epoch 143 :  started.
+Training loss at step 0: 0.0026658480055630207, accuracy: 1.0
+Training loss at step 100: 0.0041734823025763035, accuracy: 0.9984529614448547
+Training loss at step 200: 0.005061264615505934, accuracy: 0.9978233575820923
+Training loss at step 300: 0.0062633780762553215, accuracy: 0.9974044561386108
+Training loss at epoch 143: 0.006573814898729324
+Training accuracy at epoch 143: 0.997265636920929
+[I] Epoch 143 :  finished in 42.653 s.
+[I] Validating at epoch 143 started.
+Validation loss at epoch 143: 1.4451531171798706
+Validation accuracy at epoch 143: 0.8245543241500854
+[I] Validating at epoch 143 finished in 3.153 s.
+[I] Epoch 144 :  started.
+Training loss at step 0: 0.0007015999290160835, accuracy: 1.0
+Training loss at step 100: 0.005648208316415548, accuracy: 0.9975247383117676
+Training loss at step 200: 0.004801562055945396, accuracy: 0.9976679086685181
+Training loss at step 300: 0.005073064006865025, accuracy: 0.9978197813034058
+Training loss at epoch 144: 0.005029111169278622
+Training accuracy at epoch 144: 0.997851550579071
+[I] Epoch 144 :  finished in 42.345 s.
+[I] Validating at epoch 144 started.
+Validation loss at epoch 144: 1.4149084091186523
+Validation accuracy at epoch 144: 0.8322528600692749
+[I] Validating at epoch 144 finished in 3.156 s.
+[I] Epoch 145 :  started.
+Training loss at step 0: 0.001331862760707736, accuracy: 1.0
+Training loss at step 100: 0.0069708311930298805, accuracy: 0.9969059228897095
+Training loss at step 200: 0.007574430666863918, accuracy: 0.9965795874595642
+Training loss at step 300: 0.006686869543045759, accuracy: 0.9971968531608582
+Training loss at epoch 145: 0.0065475767478346825
+Training accuracy at epoch 145: 0.997363269329071
+[I] Epoch 145 :  finished in 42.371 s.
+[I] Validating at epoch 145 started.
+Validation loss at epoch 145: 1.370803713798523
+Validation accuracy at epoch 145: 0.8367098569869995
+[I] Validating at epoch 145 finished in 3.144 s.
+[I] Epoch 146 :  started.
+Training loss at step 0: 0.000889859045855701, accuracy: 1.0
+Training loss at step 100: 0.0030018810648471117, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0031229075975716114, accuracy: 0.9990671873092651
+Training loss at step 300: 0.003714058781042695, accuracy: 0.998650312423706
+Training loss at epoch 146: 0.0041683572344481945
+Training accuracy at epoch 146: 0.99853515625
+[I] Epoch 146 :  finished in 42.513 s.
+[I] Validating at epoch 146 started.
+Validation loss at epoch 146: 1.3515392541885376
+Validation accuracy at epoch 146: 0.8322528600692749
+[I] Validating at epoch 146 finished in 3.128 s.
+[I] Epoch 147 :  started.
+Training loss at step 0: 0.0014674621634185314, accuracy: 1.0
+Training loss at step 100: 0.0038976571522653103, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0050347172655165195, accuracy: 0.9984452724456787
+Training loss at step 300: 0.004491711035370827, accuracy: 0.9985465407371521
+Training loss at epoch 147: 0.004367190878838301
+Training accuracy at epoch 147: 0.99853515625
+[I] Epoch 147 :  finished in 42.368 s.
+[I] Validating at epoch 147 started.
+Validation loss at epoch 147: 1.3800708055496216
+Validation accuracy at epoch 147: 0.8338735699653625
+[I] Validating at epoch 147 finished in 3.163 s.
+[I] Epoch 148 :  started.
+Training loss at step 0: 0.000568630057387054, accuracy: 1.0
+Training loss at step 100: 0.003577108960598707, accuracy: 0.9990717768669128
+Training loss at step 200: 0.003732728771865368, accuracy: 0.9987562298774719
+Training loss at step 300: 0.003548021661117673, accuracy: 0.9987541437149048
+Training loss at epoch 148: 0.0035021863877773285
+Training accuracy at epoch 148: 0.998730480670929
+[I] Epoch 148 :  finished in 42.595 s.
+[I] Validating at epoch 148 started.
+Validation loss at epoch 148: 1.37114417552948
+Validation accuracy at epoch 148: 0.8407617211341858
+[I] Validating at epoch 148 finished in 3.168 s.
+[I] Epoch 149 :  started.
+Training loss at step 0: 0.015429293736815453, accuracy: 1.0
+Training loss at step 100: 0.0025758708361536264, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0027916699182242155, accuracy: 0.9989116787910461
+Training loss at step 300: 0.003433101112022996, accuracy: 0.9987541437149048
+Training loss at epoch 149: 0.003758159000426531
+Training accuracy at epoch 149: 0.998730480670929
+[I] Epoch 149 :  finished in 42.857 s.
+[I] Validating at epoch 149 started.
+Validation loss at epoch 149: 1.427752137184143
+Validation accuracy at epoch 149: 0.8213127851486206
+[I] Validating at epoch 149 finished in 3.113 s.
+[I] Epoch 150 :  started.
+Training loss at step 0: 0.0008428224246017635, accuracy: 1.0
+Training loss at step 100: 0.00520565127953887, accuracy: 0.9975247383117676
+Training loss at step 200: 0.005009972490370274, accuracy: 0.9981343150138855
+Training loss at step 300: 0.003926211502403021, accuracy: 0.998650312423706
+Training loss at epoch 150: 0.004169437102973461
+Training accuracy at epoch 150: 0.99853515625
+[I] Epoch 150 :  finished in 41.425 s.
+[I] Validating at epoch 150 started.
+Validation loss at epoch 150: 1.397209882736206
+Validation accuracy at epoch 150: 0.8427876830101013
+[I] Validating at epoch 150 finished in 3.107 s.
+[I] Epoch 151 :  started.
+Training loss at step 0: 0.0003317285154480487, accuracy: 1.0
+Training loss at step 100: 0.0037183864042162895, accuracy: 0.9987623691558838
+Training loss at step 200: 0.005509197246283293, accuracy: 0.9979788661003113
+Training loss at step 300: 0.005960746668279171, accuracy: 0.9976121187210083
+Training loss at epoch 151: 0.006040222942829132
+Training accuracy at epoch 151: 0.9976562261581421
+[I] Epoch 151 :  finished in 42.162 s.
+[I] Validating at epoch 151 started.
+Validation loss at epoch 151: 1.4049633741378784
+Validation accuracy at epoch 151: 0.8314424753189087
+[I] Validating at epoch 151 finished in 3.124 s.
+[I] Epoch 152 :  started.
+Training loss at step 0: 0.0003930700768250972, accuracy: 1.0
+Training loss at step 100: 0.0034887846559286118, accuracy: 0.9993811845779419
+Training loss at step 200: 0.004321730230003595, accuracy: 0.9989116787910461
+Training loss at step 300: 0.004043280147016048, accuracy: 0.9988579750061035
+Training loss at epoch 152: 0.0038844230584800243
+Training accuracy at epoch 152: 0.9989258050918579
+[I] Epoch 152 :  finished in 42.862 s.
+[I] Validating at epoch 152 started.
+Validation loss at epoch 152: 1.364685297012329
+Validation accuracy at epoch 152: 0.8391410112380981
+[I] Validating at epoch 152 finished in 3.126 s.
+[I] Epoch 153 :  started.
+Training loss at step 0: 0.0006519501330330968, accuracy: 1.0
+Training loss at step 100: 0.0022980468347668648, accuracy: 0.999690592288971
+Training loss at step 200: 0.002772997599095106, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0035182905849069357, accuracy: 0.9988579750061035
+Training loss at epoch 153: 0.003443189663812518
+Training accuracy at epoch 153: 0.9989258050918579
+[I] Epoch 153 :  finished in 42.603 s.
+[I] Validating at epoch 153 started.
+Validation loss at epoch 153: 1.3975316286087036
+Validation accuracy at epoch 153: 0.8375202417373657
+[I] Validating at epoch 153 finished in 3.152 s.
+[I] Epoch 154 :  started.
+Training loss at step 0: 0.00023688845976721495, accuracy: 1.0
+Training loss at step 100: 0.0025706873275339603, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0031240857206285, accuracy: 0.9989116787910461
+Training loss at step 300: 0.003148311749100685, accuracy: 0.999065637588501
+Training loss at epoch 154: 0.0032484896946698427
+Training accuracy at epoch 154: 0.9989258050918579
+[I] Epoch 154 :  finished in 42.644 s.
+[I] Validating at epoch 154 started.
+Validation loss at epoch 154: 1.3986390829086304
+Validation accuracy at epoch 154: 0.8358995318412781
+[I] Validating at epoch 154 finished in 3.138 s.
+[I] Epoch 155 :  started.
+Training loss at step 0: 0.0005823021638207138, accuracy: 1.0
+Training loss at step 100: 0.002024938352406025, accuracy: 0.999690592288971
+Training loss at step 200: 0.002388539258390665, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0023393495939671993, accuracy: 0.9993770718574524
+Training loss at epoch 155: 0.0027979202568531036
+Training accuracy at epoch 155: 0.9991210699081421
+[I] Epoch 155 :  finished in 42.719 s.
+[I] Validating at epoch 155 started.
+Validation loss at epoch 155: 1.4227787256240845
+Validation accuracy at epoch 155: 0.8375202417373657
+[I] Validating at epoch 155 finished in 3.135 s.
+[I] Epoch 156 :  started.
+Training loss at step 0: 0.0028610441368073225, accuracy: 1.0
+Training loss at step 100: 0.0029131993651390076, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0026861014775931835, accuracy: 0.9989116787910461
+Training loss at step 300: 0.0022489121183753014, accuracy: 0.9991694092750549
+Training loss at epoch 156: 0.002371361944824457
+Training accuracy at epoch 156: 0.9991210699081421
+[I] Epoch 156 :  finished in 42.252 s.
+[I] Validating at epoch 156 started.
+Validation loss at epoch 156: 1.4097157716751099
+Validation accuracy at epoch 156: 0.8330631852149963
+[I] Validating at epoch 156 finished in 3.135 s.
+[I] Epoch 157 :  started.
+Training loss at step 0: 7.766799535602331e-05, accuracy: 1.0
+Training loss at step 100: 0.0026811789721250534, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0023088681045919657, accuracy: 0.9989116787910461
+Training loss at step 300: 0.002265102230012417, accuracy: 0.999065637588501
+Training loss at epoch 157: 0.0023792486172169447
+Training accuracy at epoch 157: 0.9989258050918579
+[I] Epoch 157 :  finished in 42.240 s.
+[I] Validating at epoch 157 started.
+Validation loss at epoch 157: 1.3920612335205078
+Validation accuracy at epoch 157: 0.8411669135093689
+[I] Validating at epoch 157 finished in 3.087 s.
+[I] Epoch 158 :  started.
+Training loss at step 0: 0.00012671247532125562, accuracy: 1.0
+Training loss at step 100: 0.0034980522468686104, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0027738758362829685, accuracy: 0.9987562298774719
+Training loss at step 300: 0.003384264884516597, accuracy: 0.9985465407371521
+Training loss at epoch 158: 0.003917955327779055
+Training accuracy at epoch 158: 0.998242199420929
+[I] Epoch 158 :  finished in 42.345 s.
+[I] Validating at epoch 158 started.
+Validation loss at epoch 158: 1.5073614120483398
+Validation accuracy at epoch 158: 0.8306320905685425
+[I] Validating at epoch 158 finished in 3.119 s.
+[I] Epoch 159 :  started.
+Training loss at step 0: 0.0011576993856579065, accuracy: 1.0
+Training loss at step 100: 0.004450206644833088, accuracy: 0.9978341460227966
+Training loss at step 200: 0.0043189930729568005, accuracy: 0.9981343150138855
+Training loss at step 300: 0.0036347233690321445, accuracy: 0.9984427094459534
+Training loss at epoch 159: 0.0035121222026646137
+Training accuracy at epoch 159: 0.99853515625
+[I] Epoch 159 :  finished in 42.307 s.
+[I] Validating at epoch 159 started.
+Validation loss at epoch 159: 1.3904317617416382
+Validation accuracy at epoch 159: 0.8363047242164612
+[I] Validating at epoch 159 finished in 3.136 s.
+[I] Epoch 160 :  started.
+Training loss at step 0: 0.002038010861724615, accuracy: 1.0
+Training loss at step 100: 0.002215081127360463, accuracy: 0.9993811845779419
+Training loss at step 200: 0.00371951749548316, accuracy: 0.9982898235321045
+Training loss at step 300: 0.003372939769178629, accuracy: 0.998650312423706
+Training loss at epoch 160: 0.004245874937623739
+Training accuracy at epoch 160: 0.99853515625
+[I] Epoch 160 :  finished in 42.605 s.
+[I] Validating at epoch 160 started.
+Validation loss at epoch 160: 1.4340670108795166
+Validation accuracy at epoch 160: 0.8363047242164612
+[I] Validating at epoch 160 finished in 3.147 s.
+[I] Epoch 161 :  started.
+Training loss at step 0: 0.027770616114139557, accuracy: 1.0
+Training loss at step 100: 0.0027612412814050913, accuracy: 0.9987623691558838
+Training loss at step 200: 0.004945921711623669, accuracy: 0.9978233575820923
+Training loss at step 300: 0.004204277414828539, accuracy: 0.9983388781547546
+Training loss at epoch 161: 0.004507082514464855
+Training accuracy at epoch 161: 0.9981445074081421
+[I] Epoch 161 :  finished in 42.657 s.
+[I] Validating at epoch 161 started.
+Validation loss at epoch 161: 1.3691071271896362
+Validation accuracy at epoch 161: 0.8407617211341858
+[I] Validating at epoch 161 finished in 3.136 s.
+[I] Epoch 162 :  started.
+Training loss at step 0: 0.0004061506188008934, accuracy: 1.0
+Training loss at step 100: 0.006302358582615852, accuracy: 0.9984529614448547
+Training loss at step 200: 0.004556480795145035, accuracy: 0.9986007213592529
+Training loss at step 300: 0.0036045305896550417, accuracy: 0.9988579750061035
+Training loss at epoch 162: 0.003528787288814783
+Training accuracy at epoch 162: 0.9989258050918579
+[I] Epoch 162 :  finished in 42.198 s.
+[I] Validating at epoch 162 started.
+Validation loss at epoch 162: 1.4067257642745972
+Validation accuracy at epoch 162: 0.8411669135093689
+[I] Validating at epoch 162 finished in 3.127 s.
+[I] Epoch 163 :  started.
+Training loss at step 0: 0.00020499508536886424, accuracy: 1.0
+Training loss at step 100: 0.0027314096223562956, accuracy: 0.9984529614448547
+Training loss at step 200: 0.003975346684455872, accuracy: 0.9978233575820923
+Training loss at step 300: 0.003960891626775265, accuracy: 0.9981312155723572
+Training loss at epoch 163: 0.004104822874069214
+Training accuracy at epoch 163: 0.9981445074081421
+[I] Epoch 163 :  finished in 42.588 s.
+[I] Validating at epoch 163 started.
+Validation loss at epoch 163: 1.402508020401001
+Validation accuracy at epoch 163: 0.8363047242164612
+[I] Validating at epoch 163 finished in 3.134 s.
+[I] Epoch 164 :  started.
+Training loss at step 0: 0.021009651944041252, accuracy: 1.0
+Training loss at step 100: 0.003524375380948186, accuracy: 0.9990717768669128
+Training loss at step 200: 0.002518504159525037, accuracy: 0.9992226362228394
+Training loss at step 300: 0.003279061522334814, accuracy: 0.998650312423706
+Training loss at epoch 164: 0.003174339886754751
+Training accuracy at epoch 164: 0.998730480670929
+[I] Epoch 164 :  finished in 42.250 s.
+[I] Validating at epoch 164 started.
+Validation loss at epoch 164: 1.4318667650222778
+Validation accuracy at epoch 164: 0.8399513959884644
+[I] Validating at epoch 164 finished in 3.151 s.
+[I] Epoch 165 :  started.
+Training loss at step 0: 0.00019130203872919083, accuracy: 1.0
+Training loss at step 100: 0.003925011958926916, accuracy: 0.9978341460227966
+Training loss at step 200: 0.004311642609536648, accuracy: 0.9982898235321045
+Training loss at step 300: 0.004794761072844267, accuracy: 0.9984427094459534
+Training loss at epoch 165: 0.00465388223528862
+Training accuracy at epoch 165: 0.99853515625
+[I] Epoch 165 :  finished in 42.696 s.
+[I] Validating at epoch 165 started.
+Validation loss at epoch 165: 1.4354950189590454
+Validation accuracy at epoch 165: 0.8338735699653625
+[I] Validating at epoch 165 finished in 3.141 s.
+[I] Epoch 166 :  started.
+Training loss at step 0: 0.00021185990772210062, accuracy: 1.0
+Training loss at step 100: 0.00320164836011827, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0026092207990586758, accuracy: 0.9989116787910461
+Training loss at step 300: 0.0026340181939303875, accuracy: 0.999065637588501
+Training loss at epoch 166: 0.0027200256008654833
+Training accuracy at epoch 166: 0.9989258050918579
+[I] Epoch 166 :  finished in 42.449 s.
+[I] Validating at epoch 166 started.
+Validation loss at epoch 166: 1.4286006689071655
+Validation accuracy at epoch 166: 0.838735818862915
+[I] Validating at epoch 166 finished in 3.128 s.
+[I] Epoch 167 :  started.
+Training loss at step 0: 0.0002611821691971272, accuracy: 1.0
+Training loss at step 100: 0.002325313864275813, accuracy: 0.9990717768669128
+Training loss at step 200: 0.003310992382466793, accuracy: 0.9986007213592529
+Training loss at step 300: 0.004652558825910091, accuracy: 0.9984427094459534
+Training loss at epoch 167: 0.004955082666128874
+Training accuracy at epoch 167: 0.9984375238418579
+[I] Epoch 167 :  finished in 42.689 s.
+[I] Validating at epoch 167 started.
+Validation loss at epoch 167: 1.523323893547058
+Validation accuracy at epoch 167: 0.8346839547157288
+[I] Validating at epoch 167 finished in 3.100 s.
+[I] Epoch 168 :  started.
+Training loss at step 0: 0.0008182606543414295, accuracy: 1.0
+Training loss at step 100: 0.003987492062151432, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0037041339091956615, accuracy: 0.9989116787910461
+Training loss at step 300: 0.003250496694818139, accuracy: 0.9989618062973022
+Training loss at epoch 168: 0.0034953125286847353
+Training accuracy at epoch 168: 0.998828113079071
+[I] Epoch 168 :  finished in 42.701 s.
+[I] Validating at epoch 168 started.
+Validation loss at epoch 168: 1.418893814086914
+Validation accuracy at epoch 168: 0.8395462036132812
+[I] Validating at epoch 168 finished in 3.157 s.
+[I] Epoch 169 :  started.
+Training loss at step 0: 0.016613643616437912, accuracy: 1.0
+Training loss at step 100: 0.0016494744922965765, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0023114257492125034, accuracy: 0.9992226362228394
+Training loss at step 300: 0.002414700109511614, accuracy: 0.9991694092750549
+Training loss at epoch 169: 0.0023228395730257034
+Training accuracy at epoch 169: 0.999218761920929
+[I] Epoch 169 :  finished in 42.236 s.
+[I] Validating at epoch 169 started.
+Validation loss at epoch 169: 1.427718162536621
+Validation accuracy at epoch 169: 0.8391410112380981
+[I] Validating at epoch 169 finished in 3.152 s.
+[I] Epoch 170 :  started.
+Training loss at step 0: 8.570169302402064e-05, accuracy: 1.0
+Training loss at step 100: 0.0028989247512072325, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0032441290095448494, accuracy: 0.9986007213592529
+Training loss at step 300: 0.003256862284615636, accuracy: 0.998650312423706
+Training loss at epoch 170: 0.0030877762474119663
+Training accuracy at epoch 170: 0.998730480670929
+[I] Epoch 170 :  finished in 42.555 s.
+[I] Validating at epoch 170 started.
+Validation loss at epoch 170: 1.4457340240478516
+Validation accuracy at epoch 170: 0.8371150493621826
+[I] Validating at epoch 170 finished in 3.124 s.
+[I] Epoch 171 :  started.
+Training loss at step 0: 0.00021258967171888798, accuracy: 1.0
+Training loss at step 100: 0.001648218953050673, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0027598822489380836, accuracy: 0.9987562298774719
+Training loss at step 300: 0.0028727140743285418, accuracy: 0.9987541437149048
+Training loss at epoch 171: 0.002959201578050852
+Training accuracy at epoch 171: 0.998730480670929
+[I] Epoch 171 :  finished in 42.634 s.
+[I] Validating at epoch 171 started.
+Validation loss at epoch 171: 1.441522479057312
+Validation accuracy at epoch 171: 0.8322528600692749
+[I] Validating at epoch 171 finished in 3.124 s.
+[I] Epoch 172 :  started.
+Training loss at step 0: 0.0003807026077993214, accuracy: 1.0
+Training loss at step 100: 0.0054417625069618225, accuracy: 0.9984529614448547
+Training loss at step 200: 0.004101851023733616, accuracy: 0.9990671873092651
+Training loss at step 300: 0.007667263504117727, accuracy: 0.9982350468635559
+Training loss at epoch 172: 0.007760390639305115
+Training accuracy at epoch 172: 0.9981445074081421
+[I] Epoch 172 :  finished in 42.576 s.
+[I] Validating at epoch 172 started.
+Validation loss at epoch 172: 1.534776210784912
+Validation accuracy at epoch 172: 0.8277958035469055
+[I] Validating at epoch 172 finished in 3.082 s.
+[I] Epoch 173 :  started.
+Training loss at step 0: 0.01413520984351635, accuracy: 1.0
+Training loss at step 100: 0.0033014200162142515, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0028903931379318237, accuracy: 0.9989116787910461
+Training loss at step 300: 0.002716613933444023, accuracy: 0.999065637588501
+Training loss at epoch 173: 0.002586428774520755
+Training accuracy at epoch 173: 0.9991210699081421
+[I] Epoch 173 :  finished in 42.754 s.
+[I] Validating at epoch 173 started.
+Validation loss at epoch 173: 1.4527517557144165
+Validation accuracy at epoch 173: 0.8363047242164612
+[I] Validating at epoch 173 finished in 3.147 s.
+[I] Epoch 174 :  started.
+Training loss at step 0: 0.00016248089377768338, accuracy: 1.0
+Training loss at step 100: 0.003434356302022934, accuracy: 0.9981435537338257
+Training loss at step 200: 0.0025853440165519714, accuracy: 0.9990671873092651
+Training loss at step 300: 0.0023995928931981325, accuracy: 0.9991694092750549
+Training loss at epoch 174: 0.0024086064659059048
+Training accuracy at epoch 174: 0.9991210699081421
+[I] Epoch 174 :  finished in 42.335 s.
+[I] Validating at epoch 174 started.
+Validation loss at epoch 174: 1.4801130294799805
+Validation accuracy at epoch 174: 0.8363047242164612
+[I] Validating at epoch 174 finished in 3.142 s.
+[I] Epoch 175 :  started.
+Training loss at step 0: 0.00018086070485878736, accuracy: 1.0
+Training loss at step 100: 0.002258352469652891, accuracy: 0.9993811845779419
+Training loss at step 200: 0.001981565961614251, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0019415371352806687, accuracy: 0.9994809031486511
+Training loss at epoch 175: 0.0018470052164047956
+Training accuracy at epoch 175: 0.99951171875
+[I] Epoch 175 :  finished in 42.663 s.
+[I] Validating at epoch 175 started.
+Validation loss at epoch 175: 1.453315258026123
+Validation accuracy at epoch 175: 0.8375202417373657
+[I] Validating at epoch 175 finished in 3.127 s.
+[I] Epoch 176 :  started.
+Training loss at step 0: 0.00036076095420867205, accuracy: 1.0
+Training loss at step 100: 0.0025490231346338987, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0024058057460933924, accuracy: 0.9992226362228394
+Training loss at step 300: 0.002656789729371667, accuracy: 0.999065637588501
+Training loss at epoch 176: 0.002643308136612177
+Training accuracy at epoch 176: 0.9991210699081421
+[I] Epoch 176 :  finished in 42.834 s.
+[I] Validating at epoch 176 started.
+Validation loss at epoch 176: 1.5027055740356445
+Validation accuracy at epoch 176: 0.8363047242164612
+[I] Validating at epoch 176 finished in 3.146 s.
+[I] Epoch 177 :  started.
+Training loss at step 0: 0.00014200899749994278, accuracy: 1.0
+Training loss at step 100: 0.0028681152034550905, accuracy: 0.9990717768669128
+Training loss at step 200: 0.002686765743419528, accuracy: 0.9990671873092651
+Training loss at step 300: 0.0022729309275746346, accuracy: 0.9992732405662537
+Training loss at epoch 177: 0.002313601318746805
+Training accuracy at epoch 177: 0.999316394329071
+[I] Epoch 177 :  finished in 42.466 s.
+[I] Validating at epoch 177 started.
+Validation loss at epoch 177: 1.4829906225204468
+Validation accuracy at epoch 177: 0.8346839547157288
+[I] Validating at epoch 177 finished in 3.153 s.
+[I] Epoch 178 :  started.
+Training loss at step 0: 0.0001279496937058866, accuracy: 1.0
+Training loss at step 100: 0.0026637976989150047, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0020095272921025753, accuracy: 0.9990671873092651
+Training loss at step 300: 0.0018741377862170339, accuracy: 0.9991694092750549
+Training loss at epoch 178: 0.0018925664480775595
+Training accuracy at epoch 178: 0.9991210699081421
+[I] Epoch 178 :  finished in 42.618 s.
+[I] Validating at epoch 178 started.
+Validation loss at epoch 178: 1.445654273033142
+Validation accuracy at epoch 178: 0.8363047242164612
+[I] Validating at epoch 178 finished in 3.131 s.
+[I] Epoch 179 :  started.
+Training loss at step 0: 0.04272589460015297, accuracy: 0.96875
+Training loss at step 100: 0.001655117142945528, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0017386636463925242, accuracy: 0.9990671873092651
+Training loss at step 300: 0.0018581434851512313, accuracy: 0.9991694092750549
+Training loss at epoch 179: 0.0019094649469479918
+Training accuracy at epoch 179: 0.9991210699081421
+[I] Epoch 179 :  finished in 42.671 s.
+[I] Validating at epoch 179 started.
+Validation loss at epoch 179: 1.4265954494476318
+Validation accuracy at epoch 179: 0.8358995318412781
+[I] Validating at epoch 179 finished in 3.144 s.
+[I] Epoch 180 :  started.
+Training loss at step 0: 0.0003457905841059983, accuracy: 1.0
+Training loss at step 100: 0.002274829428642988, accuracy: 0.9990717768669128
+Training loss at step 200: 0.002180615207180381, accuracy: 0.9989116787910461
+Training loss at step 300: 0.0021488633938133717, accuracy: 0.999065637588501
+Training loss at epoch 180: 0.002120179822668433
+Training accuracy at epoch 180: 0.9991210699081421
+[I] Epoch 180 :  finished in 42.230 s.
+[I] Validating at epoch 180 started.
+Validation loss at epoch 180: 1.4300717115402222
+Validation accuracy at epoch 180: 0.8358995318412781
+[I] Validating at epoch 180 finished in 3.133 s.
+[I] Epoch 181 :  started.
+Training loss at step 0: 0.001288308179937303, accuracy: 1.0
+Training loss at step 100: 0.001837148331105709, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0022768983617424965, accuracy: 0.9986007213592529
+Training loss at step 300: 0.0017448017606511712, accuracy: 0.999065637588501
+Training loss at epoch 181: 0.0017848719144240022
+Training accuracy at epoch 181: 0.9991210699081421
+[I] Epoch 181 :  finished in 42.471 s.
+[I] Validating at epoch 181 started.
+Validation loss at epoch 181: 1.4688578844070435
+Validation accuracy at epoch 181: 0.8310372829437256
+[I] Validating at epoch 181 finished in 3.132 s.
+[I] Epoch 182 :  started.
+Training loss at step 0: 0.00011326121602905914, accuracy: 1.0
+Training loss at step 100: 0.0016514388844370842, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0017308001406490803, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0016543697565793991, accuracy: 0.9992732405662537
+Training loss at epoch 182: 0.0015718269860371947
+Training accuracy at epoch 182: 0.999316394329071
+[I] Epoch 182 :  finished in 42.495 s.
+[I] Validating at epoch 182 started.
+Validation loss at epoch 182: 1.4325531721115112
+Validation accuracy at epoch 182: 0.8395462036132812
+[I] Validating at epoch 182 finished in 3.130 s.
+[I] Epoch 183 :  started.
+Training loss at step 0: 0.0042063468135893345, accuracy: 1.0
+Training loss at step 100: 0.0025476336013525724, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0038959772791713476, accuracy: 0.9986007213592529
+Training loss at step 300: 0.0030632037669420242, accuracy: 0.9989618062973022
+Training loss at epoch 183: 0.003172281663864851
+Training accuracy at epoch 183: 0.998828113079071
+[I] Epoch 183 :  finished in 42.596 s.
+[I] Validating at epoch 183 started.
+Validation loss at epoch 183: 1.484727382659912
+Validation accuracy at epoch 183: 0.8371150493621826
+[I] Validating at epoch 183 finished in 3.132 s.
+[I] Epoch 184 :  started.
+Training loss at step 0: 0.0002680100151337683, accuracy: 1.0
+Training loss at step 100: 0.0038598557002842426, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0030217627063393593, accuracy: 0.9989116787910461
+Training loss at step 300: 0.002480136463418603, accuracy: 0.9991694092750549
+Training loss at epoch 184: 0.002577007282525301
+Training accuracy at epoch 184: 0.9990234375
+[I] Epoch 184 :  finished in 42.399 s.
+[I] Validating at epoch 184 started.
+Validation loss at epoch 184: 1.4959373474121094
+Validation accuracy at epoch 184: 0.8391410112380981
+[I] Validating at epoch 184 finished in 3.116 s.
+[I] Epoch 185 :  started.
+Training loss at step 0: 9.240896179107949e-05, accuracy: 1.0
+Training loss at step 100: 0.0018150819232687354, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0017310244729742408, accuracy: 0.9992226362228394
+Training loss at step 300: 0.001593848573975265, accuracy: 0.9993770718574524
+Training loss at epoch 185: 0.0016421331092715263
+Training accuracy at epoch 185: 0.9994140863418579
+[I] Epoch 185 :  finished in 42.378 s.
+[I] Validating at epoch 185 started.
+Validation loss at epoch 185: 1.4846333265304565
+Validation accuracy at epoch 185: 0.8358995318412781
+[I] Validating at epoch 185 finished in 3.144 s.
+[I] Epoch 186 :  started.
+Training loss at step 0: 0.00015655459719710052, accuracy: 1.0
+Training loss at step 100: 0.003341784467920661, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0028335258830338717, accuracy: 0.9986007213592529
+Training loss at step 300: 0.0023771452251821756, accuracy: 0.9988579750061035
+Training loss at epoch 186: 0.0022937022149562836
+Training accuracy at epoch 186: 0.9989258050918579
+[I] Epoch 186 :  finished in 42.388 s.
+[I] Validating at epoch 186 started.
+Validation loss at epoch 186: 1.5201390981674194
+Validation accuracy at epoch 186: 0.8302268981933594
+[I] Validating at epoch 186 finished in 2.989 s.
+[I] Epoch 187 :  started.
+Training loss at step 0: 7.220923725981265e-05, accuracy: 1.0
+Training loss at step 100: 0.0021595489233732224, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0019448192324489355, accuracy: 0.9990671873092651
+Training loss at step 300: 0.0017766766250133514, accuracy: 0.9992732405662537
+Training loss at epoch 187: 0.0017551544588059187
+Training accuracy at epoch 187: 0.999316394329071
+[I] Epoch 187 :  finished in 42.186 s.
+[I] Validating at epoch 187 started.
+Validation loss at epoch 187: 1.4881535768508911
+Validation accuracy at epoch 187: 0.8383306264877319
+[I] Validating at epoch 187 finished in 3.152 s.
+[I] Epoch 188 :  started.
+Training loss at step 0: 0.012696555815637112, accuracy: 1.0
+Training loss at step 100: 0.0014670006930828094, accuracy: 0.999690592288971
+Training loss at step 200: 0.0019772928208112717, accuracy: 0.9990671873092651
+Training loss at step 300: 0.002324627712368965, accuracy: 0.9988579750061035
+Training loss at epoch 188: 0.002494825515896082
+Training accuracy at epoch 188: 0.998730480670929
+[I] Epoch 188 :  finished in 42.061 s.
+[I] Validating at epoch 188 started.
+Validation loss at epoch 188: 1.4907480478286743
+Validation accuracy at epoch 188: 0.8282009959220886
+[I] Validating at epoch 188 finished in 3.000 s.
+[I] Epoch 189 :  started.
+Training loss at step 0: 0.0005202143220230937, accuracy: 1.0
+Training loss at step 100: 0.0027332438621670008, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0021919647697359324, accuracy: 0.9989116787910461
+Training loss at step 300: 0.0023588540498167276, accuracy: 0.9987541437149048
+Training loss at epoch 189: 0.002494824817404151
+Training accuracy at epoch 189: 0.9986327886581421
+[I] Epoch 189 :  finished in 42.722 s.
+[I] Validating at epoch 189 started.
+Validation loss at epoch 189: 1.476194977760315
+Validation accuracy at epoch 189: 0.8379254341125488
+[I] Validating at epoch 189 finished in 3.145 s.
+[I] Epoch 190 :  started.
+Training loss at step 0: 0.0005933703505434096, accuracy: 1.0
+Training loss at step 100: 0.0037447765935212374, accuracy: 0.9984529614448547
+Training loss at step 200: 0.0029318456072360277, accuracy: 0.9986007213592529
+Training loss at step 300: 0.003381883492693305, accuracy: 0.9984427094459534
+Training loss at epoch 190: 0.0032615340314805508
+Training accuracy at epoch 190: 0.99853515625
+[I] Epoch 190 :  finished in 42.546 s.
+[I] Validating at epoch 190 started.
+Validation loss at epoch 190: 1.4591702222824097
+Validation accuracy at epoch 190: 0.8403565883636475
+[I] Validating at epoch 190 finished in 3.134 s.
+[I] Epoch 191 :  started.
+Training loss at step 0: 0.0002131934161297977, accuracy: 1.0
+Training loss at step 100: 0.002583055291324854, accuracy: 0.9993811845779419
+Training loss at step 200: 0.002027422422543168, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0018534775590524077, accuracy: 0.9995847344398499
+Training loss at epoch 191: 0.002194940112531185
+Training accuracy at epoch 191: 0.9994140863418579
+[I] Epoch 191 :  finished in 42.601 s.
+[I] Validating at epoch 191 started.
+Validation loss at epoch 191: 1.5257166624069214
+Validation accuracy at epoch 191: 0.8330631852149963
+[I] Validating at epoch 191 finished in 3.120 s.
+[I] Epoch 192 :  started.
+Training loss at step 0: 0.000302238913718611, accuracy: 1.0
+Training loss at step 100: 0.0018274077447131276, accuracy: 0.9993811845779419
+Training loss at step 200: 0.001933586085215211, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0024789636954665184, accuracy: 0.9988579750061035
+Training loss at epoch 192: 0.002508855191990733
+Training accuracy at epoch 192: 0.998828113079071
+[I] Epoch 192 :  finished in 42.532 s.
+[I] Validating at epoch 192 started.
+Validation loss at epoch 192: 1.5422389507293701
+Validation accuracy at epoch 192: 0.8310372829437256
+[I] Validating at epoch 192 finished in 3.114 s.
+[I] Epoch 193 :  started.
+Training loss at step 0: 0.0005083617870695889, accuracy: 1.0
+Training loss at step 100: 0.0044927955605089664, accuracy: 0.9987623691558838
+Training loss at step 200: 0.003726188326254487, accuracy: 0.9984452724456787
+Training loss at step 300: 0.0029049869626760483, accuracy: 0.9988579750061035
+Training loss at epoch 193: 0.002760963747277856
+Training accuracy at epoch 193: 0.9989258050918579
+[I] Epoch 193 :  finished in 42.423 s.
+[I] Validating at epoch 193 started.
+Validation loss at epoch 193: 1.485005259513855
+Validation accuracy at epoch 193: 0.8363047242164612
+[I] Validating at epoch 193 finished in 3.131 s.
+[I] Epoch 194 :  started.
+Training loss at step 0: 5.439386950456537e-05, accuracy: 1.0
+Training loss at step 100: 0.0005922443815506995, accuracy: 1.0
+Training loss at step 200: 0.000849829928483814, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0009138350724242628, accuracy: 0.9996885657310486
+Training loss at epoch 194: 0.0009686878183856606
+Training accuracy at epoch 194: 0.9996093511581421
+[I] Epoch 194 :  finished in 42.743 s.
+[I] Validating at epoch 194 started.
+Validation loss at epoch 194: 1.4878400564193726
+Validation accuracy at epoch 194: 0.8391410112380981
+[I] Validating at epoch 194 finished in 3.126 s.
+[I] Epoch 195 :  started.
+Training loss at step 0: 0.0003487556241452694, accuracy: 1.0
+Training loss at step 100: 0.0015207651304081082, accuracy: 0.999690592288971
+Training loss at step 200: 0.0013625387800857425, accuracy: 0.9996890425682068
+Training loss at step 300: 0.001762708998285234, accuracy: 0.9994809031486511
+Training loss at epoch 195: 0.0020911465398967266
+Training accuracy at epoch 195: 0.999316394329071
+[I] Epoch 195 :  finished in 42.339 s.
+[I] Validating at epoch 195 started.
+Validation loss at epoch 195: 1.5206083059310913
+Validation accuracy at epoch 195: 0.8391410112380981
+[I] Validating at epoch 195 finished in 3.001 s.
+[I] Epoch 196 :  started.
+Training loss at step 0: 0.002132306108251214, accuracy: 1.0
+Training loss at step 100: 0.0026546758599579334, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0020737999584525824, accuracy: 0.9992226362228394
+Training loss at step 300: 0.002427191473543644, accuracy: 0.9988579750061035
+Training loss at epoch 196: 0.0023398161865770817
+Training accuracy at epoch 196: 0.9989258050918579
+[I] Epoch 196 :  finished in 42.731 s.
+[I] Validating at epoch 196 started.
+Validation loss at epoch 196: 1.5047814846038818
+Validation accuracy at epoch 196: 0.8407617211341858
+[I] Validating at epoch 196 finished in 3.161 s.
+[I] Epoch 197 :  started.
+Training loss at step 0: 0.00015509776130784303, accuracy: 1.0
+Training loss at step 100: 0.0024458495900034904, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0018483675085008144, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0014896589564159513, accuracy: 0.9995847344398499
+Training loss at epoch 197: 0.0014272182015702128
+Training accuracy at epoch 197: 0.9996093511581421
+[I] Epoch 197 :  finished in 42.688 s.
+[I] Validating at epoch 197 started.
+Validation loss at epoch 197: 1.5048273801803589
+Validation accuracy at epoch 197: 0.838735818862915
+[I] Validating at epoch 197 finished in 3.078 s.
+[I] Epoch 198 :  started.
+Training loss at step 0: 0.00010999912046827376, accuracy: 1.0
+Training loss at step 100: 0.002070407150313258, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0014570207567885518, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0016086804680526257, accuracy: 0.9993770718574524
+Training loss at epoch 198: 0.0015447151381522417
+Training accuracy at epoch 198: 0.9994140863418579
+[I] Epoch 198 :  finished in 42.530 s.
+[I] Validating at epoch 198 started.
+Validation loss at epoch 198: 1.489401936531067
+Validation accuracy at epoch 198: 0.8399513959884644
+[I] Validating at epoch 198 finished in 3.104 s.
+[I] Epoch 199 :  started.
+Training loss at step 0: 0.00045511158532463014, accuracy: 1.0
+Training loss at step 100: 0.0032457183115184307, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0033697597682476044, accuracy: 0.9987562298774719
+Training loss at step 300: 0.0029735162388533354, accuracy: 0.9988579750061035
+Training loss at epoch 199: 0.002882914384827018
+Training accuracy at epoch 199: 0.9989258050918579
+[I] Epoch 199 :  finished in 42.301 s.
+[I] Validating at epoch 199 started.
+Validation loss at epoch 199: 1.4764412641525269
+Validation accuracy at epoch 199: 0.8383306264877319
+[I] Validating at epoch 199 finished in 3.157 s.
+[I] Epoch 200 :  started.
+Training loss at step 0: 9.665823017712682e-05, accuracy: 1.0
+Training loss at step 100: 0.0015495112165808678, accuracy: 0.999690592288971
+Training loss at step 200: 0.001628895872272551, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0017918952507898211, accuracy: 0.9991694092750549
+Training loss at epoch 200: 0.0019257033709436655
+Training accuracy at epoch 200: 0.9990234375
+[I] Epoch 200 :  finished in 41.869 s.
+[I] Validating at epoch 200 started.
+Validation loss at epoch 200: 1.46833336353302
+Validation accuracy at epoch 200: 0.8358995318412781
+[I] Validating at epoch 200 finished in 3.033 s.
+[I] Epoch 201 :  started.
+Training loss at step 0: 0.03314017876982689, accuracy: 0.96875
+Training loss at step 100: 0.0028215069323778152, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0025829921942204237, accuracy: 0.9990671873092651
+Training loss at step 300: 0.0025318984407931566, accuracy: 0.9989618062973022
+Training loss at epoch 201: 0.0024282566737383604
+Training accuracy at epoch 201: 0.9990234375
+[I] Epoch 201 :  finished in 42.096 s.
+[I] Validating at epoch 201 started.
+Validation loss at epoch 201: 1.4824057817459106
+Validation accuracy at epoch 201: 0.8363047242164612
+[I] Validating at epoch 201 finished in 3.110 s.
+[I] Epoch 202 :  started.
+Training loss at step 0: 0.00022511999122798443, accuracy: 1.0
+Training loss at step 100: 0.0006278225919231772, accuracy: 0.999690592288971
+Training loss at step 200: 0.0017722917255014181, accuracy: 0.9993780851364136
+Training loss at step 300: 0.002130981534719467, accuracy: 0.999065637588501
+Training loss at epoch 202: 0.002048318972811103
+Training accuracy at epoch 202: 0.9991210699081421
+[I] Epoch 202 :  finished in 42.579 s.
+[I] Validating at epoch 202 started.
+Validation loss at epoch 202: 1.4871480464935303
+Validation accuracy at epoch 202: 0.835494339466095
+[I] Validating at epoch 202 finished in 3.174 s.
+[I] Epoch 203 :  started.
+Training loss at step 0: 0.00021017114340793341, accuracy: 1.0
+Training loss at step 100: 0.0016169999726116657, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0018946734489873052, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0018074795370921493, accuracy: 0.9992732405662537
+Training loss at epoch 203: 0.0017234468832612038
+Training accuracy at epoch 203: 0.999316394329071
+[I] Epoch 203 :  finished in 42.730 s.
+[I] Validating at epoch 203 started.
+Validation loss at epoch 203: 1.4708374738693237
+Validation accuracy at epoch 203: 0.8375202417373657
+[I] Validating at epoch 203 finished in 3.124 s.
+[I] Epoch 204 :  started.
+Training loss at step 0: 0.0004783871700055897, accuracy: 1.0
+Training loss at step 100: 0.0017956660594791174, accuracy: 0.999690592288971
+Training loss at step 200: 0.0013199872337281704, accuracy: 0.9996890425682068
+Training loss at step 300: 0.001698587671853602, accuracy: 0.9993770718574524
+Training loss at epoch 204: 0.0016334808897227049
+Training accuracy at epoch 204: 0.9994140863418579
+[I] Epoch 204 :  finished in 42.585 s.
+[I] Validating at epoch 204 started.
+Validation loss at epoch 204: 1.4938783645629883
+Validation accuracy at epoch 204: 0.8399513959884644
+[I] Validating at epoch 204 finished in 3.141 s.
+[I] Epoch 205 :  started.
+Training loss at step 0: 0.0003055086999665946, accuracy: 1.0
+Training loss at step 100: 0.0017542268615216017, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0012021298753097653, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0011676009744405746, accuracy: 0.9995847344398499
+Training loss at epoch 205: 0.0011654935078695416
+Training accuracy at epoch 205: 0.9996093511581421
+[I] Epoch 205 :  finished in 42.630 s.
+[I] Validating at epoch 205 started.
+Validation loss at epoch 205: 1.5314744710922241
+Validation accuracy at epoch 205: 0.835494339466095
+[I] Validating at epoch 205 finished in 3.176 s.
+[I] Epoch 206 :  started.
+Training loss at step 0: 6.581957131857052e-05, accuracy: 1.0
+Training loss at step 100: 0.0019953998271375895, accuracy: 0.999690592288971
+Training loss at step 200: 0.0018395521910861135, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0018993924604728818, accuracy: 0.9992732405662537
+Training loss at epoch 206: 0.001827720319852233
+Training accuracy at epoch 206: 0.999316394329071
+[I] Epoch 206 :  finished in 42.687 s.
+[I] Validating at epoch 206 started.
+Validation loss at epoch 206: 1.5388649702072144
+Validation accuracy at epoch 206: 0.8375202417373657
+[I] Validating at epoch 206 finished in 3.147 s.
+[I] Epoch 207 :  started.
+Training loss at step 0: 9.728628356242552e-05, accuracy: 1.0
+Training loss at step 100: 0.000704442907590419, accuracy: 0.999690592288971
+Training loss at step 200: 0.0011323927901685238, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0013674416113644838, accuracy: 0.9993770718574524
+Training loss at epoch 207: 0.001435237005352974
+Training accuracy at epoch 207: 0.999316394329071
+[I] Epoch 207 :  finished in 42.654 s.
+[I] Validating at epoch 207 started.
+Validation loss at epoch 207: 1.5220688581466675
+Validation accuracy at epoch 207: 0.8379254341125488
+[I] Validating at epoch 207 finished in 3.018 s.
+[I] Epoch 208 :  started.
+Training loss at step 0: 0.00012215370952617377, accuracy: 1.0
+Training loss at step 100: 0.001699647051282227, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0019059954211115837, accuracy: 0.9995335936546326
+Training loss at step 300: 0.001602950505912304, accuracy: 0.9995847344398499
+Training loss at epoch 208: 0.0015219111228361726
+Training accuracy at epoch 208: 0.9996093511581421
+[I] Epoch 208 :  finished in 42.422 s.
+[I] Validating at epoch 208 started.
+Validation loss at epoch 208: 1.5341218709945679
+Validation accuracy at epoch 208: 0.8294165134429932
+[I] Validating at epoch 208 finished in 3.111 s.
+[I] Epoch 209 :  started.
+Training loss at step 0: 0.0005817729397676885, accuracy: 1.0
+Training loss at step 100: 0.0017623422900214791, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0011567884357646108, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0013262237189337611, accuracy: 0.9993770718574524
+Training loss at epoch 209: 0.0015009784838184714
+Training accuracy at epoch 209: 0.999218761920929
+[I] Epoch 209 :  finished in 42.686 s.
+[I] Validating at epoch 209 started.
+Validation loss at epoch 209: 1.532403588294983
+Validation accuracy at epoch 209: 0.8302268981933594
+[I] Validating at epoch 209 finished in 3.197 s.
+[I] Epoch 210 :  started.
+Training loss at step 0: 0.00012453022645786405, accuracy: 1.0
+Training loss at step 100: 0.0021381936967372894, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0030656219460070133, accuracy: 0.9986007213592529
+Training loss at step 300: 0.00245108176022768, accuracy: 0.9989618062973022
+Training loss at epoch 210: 0.002510332502424717
+Training accuracy at epoch 210: 0.9989258050918579
+[I] Epoch 210 :  finished in 42.455 s.
+[I] Validating at epoch 210 started.
+Validation loss at epoch 210: 1.5064953565597534
+Validation accuracy at epoch 210: 0.8310372829437256
+[I] Validating at epoch 210 finished in 3.148 s.
+[I] Epoch 211 :  started.
+Training loss at step 0: 0.0003150191914755851, accuracy: 1.0
+Training loss at step 100: 0.0015217108884826303, accuracy: 0.999690592288971
+Training loss at step 200: 0.0016363138565793633, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0015691342996433377, accuracy: 0.9994809031486511
+Training loss at epoch 211: 0.0014955390943214297
+Training accuracy at epoch 211: 0.99951171875
+[I] Epoch 211 :  finished in 42.689 s.
+[I] Validating at epoch 211 started.
+Validation loss at epoch 211: 1.5309818983078003
+Validation accuracy at epoch 211: 0.8342787623405457
+[I] Validating at epoch 211 finished in 3.159 s.
+[I] Epoch 212 :  started.
+Training loss at step 0: 0.00011047543375752866, accuracy: 1.0
+Training loss at step 100: 0.001459772465750575, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0015157217858359218, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0015458925627171993, accuracy: 0.9991694092750549
+Training loss at epoch 212: 0.001565591781400144
+Training accuracy at epoch 212: 0.9991210699081421
+[I] Epoch 212 :  finished in 41.810 s.
+[I] Validating at epoch 212 started.
+Validation loss at epoch 212: 1.50566565990448
+Validation accuracy at epoch 212: 0.8367098569869995
+[I] Validating at epoch 212 finished in 3.174 s.
+[I] Epoch 213 :  started.
+Training loss at step 0: 0.0006768163875676692, accuracy: 1.0
+Training loss at step 100: 0.001736944541335106, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0015696109039708972, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0013848493108525872, accuracy: 0.9995847344398499
+Training loss at epoch 213: 0.0013651091139763594
+Training accuracy at epoch 213: 0.9996093511581421
+[I] Epoch 213 :  finished in 42.680 s.
+[I] Validating at epoch 213 started.
+Validation loss at epoch 213: 1.5277886390686035
+Validation accuracy at epoch 213: 0.8367098569869995
+[I] Validating at epoch 213 finished in 3.125 s.
+[I] Epoch 214 :  started.
+Training loss at step 0: 9.821394633036107e-05, accuracy: 1.0
+Training loss at step 100: 0.0020574601367115974, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0015187703538686037, accuracy: 0.9993780851364136
+Training loss at step 300: 0.001454925280995667, accuracy: 0.9993770718574524
+Training loss at epoch 214: 0.001403353177011013
+Training accuracy at epoch 214: 0.9994140863418579
+[I] Epoch 214 :  finished in 42.247 s.
+[I] Validating at epoch 214 started.
+Validation loss at epoch 214: 1.5225179195404053
+Validation accuracy at epoch 214: 0.8379254341125488
+[I] Validating at epoch 214 finished in 3.126 s.
+[I] Epoch 215 :  started.
+Training loss at step 0: 0.0003107254742644727, accuracy: 1.0
+Training loss at step 100: 0.0015797349624335766, accuracy: 0.999690592288971
+Training loss at step 200: 0.00128841120749712, accuracy: 0.9996890425682068
+Training loss at step 300: 0.001251762267202139, accuracy: 0.9995847344398499
+Training loss at epoch 215: 0.00129807204939425
+Training accuracy at epoch 215: 0.99951171875
+[I] Epoch 215 :  finished in 42.280 s.
+[I] Validating at epoch 215 started.
+Validation loss at epoch 215: 1.528432846069336
+Validation accuracy at epoch 215: 0.8350891470909119
+[I] Validating at epoch 215 finished in 3.154 s.
+[I] Epoch 216 :  started.
+Training loss at step 0: 0.00011541239655343816, accuracy: 1.0
+Training loss at step 100: 0.000642589118797332, accuracy: 1.0
+Training loss at step 200: 0.0008973549120128155, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0017516129883006215, accuracy: 0.9992732405662537
+Training loss at epoch 216: 0.001682736910879612
+Training accuracy at epoch 216: 0.999316394329071
+[I] Epoch 216 :  finished in 42.527 s.
+[I] Validating at epoch 216 started.
+Validation loss at epoch 216: 1.5015342235565186
+Validation accuracy at epoch 216: 0.8371150493621826
+[I] Validating at epoch 216 finished in 3.145 s.
+[I] Epoch 217 :  started.
+Training loss at step 0: 0.00024912942899391055, accuracy: 1.0
+Training loss at step 100: 0.0026340631302446127, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0015770673053339124, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0015095730777829885, accuracy: 0.9993770718574524
+Training loss at epoch 217: 0.001657126471400261
+Training accuracy at epoch 217: 0.999316394329071
+[I] Epoch 217 :  finished in 42.813 s.
+[I] Validating at epoch 217 started.
+Validation loss at epoch 217: 1.4882419109344482
+Validation accuracy at epoch 217: 0.8375202417373657
+[I] Validating at epoch 217 finished in 3.144 s.
+[I] Epoch 218 :  started.
+Training loss at step 0: 0.00030291039729490876, accuracy: 1.0
+Training loss at step 100: 0.001877588452771306, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0017141695134341717, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0014927960000932217, accuracy: 0.9993770718574524
+Training loss at epoch 218: 0.0015580762410536408
+Training accuracy at epoch 218: 0.9994140863418579
+[I] Epoch 218 :  finished in 42.531 s.
+[I] Validating at epoch 218 started.
+Validation loss at epoch 218: 1.49188232421875
+Validation accuracy at epoch 218: 0.8403565883636475
+[I] Validating at epoch 218 finished in 3.171 s.
+[I] Epoch 219 :  started.
+Training loss at step 0: 0.00011858534708153456, accuracy: 1.0
+Training loss at step 100: 0.0007173017947934568, accuracy: 0.999690592288971
+Training loss at step 200: 0.0013325889594852924, accuracy: 0.9993780851364136
+Training loss at step 300: 0.001294449670240283, accuracy: 0.9994809031486511
+Training loss at epoch 219: 0.0013777244603261352
+Training accuracy at epoch 219: 0.99951171875
+[I] Epoch 219 :  finished in 42.307 s.
+[I] Validating at epoch 219 started.
+Validation loss at epoch 219: 1.5052716732025146
+Validation accuracy at epoch 219: 0.8411669135093689
+[I] Validating at epoch 219 finished in 3.175 s.
+[I] Epoch 220 :  started.
+Training loss at step 0: 0.00017591885989531875, accuracy: 1.0
+Training loss at step 100: 0.0018061229493469, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0015839631669223309, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0015027805930003524, accuracy: 0.9995847344398499
+Training loss at epoch 220: 0.001439971150830388
+Training accuracy at epoch 220: 0.9996093511581421
+[I] Epoch 220 :  finished in 42.745 s.
+[I] Validating at epoch 220 started.
+Validation loss at epoch 220: 1.522043228149414
+Validation accuracy at epoch 220: 0.8444084525108337
+[I] Validating at epoch 220 finished in 3.014 s.
+[I] Epoch 221 :  started.
+Training loss at step 0: 8.09581033536233e-05, accuracy: 1.0
+Training loss at step 100: 0.0038075658958405256, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0026595150120556355, accuracy: 0.9989116787910461
+Training loss at step 300: 0.002456295769661665, accuracy: 0.9989618062973022
+Training loss at epoch 221: 0.002494039013981819
+Training accuracy at epoch 221: 0.9989258050918579
+[I] Epoch 221 :  finished in 42.618 s.
+[I] Validating at epoch 221 started.
+Validation loss at epoch 221: 1.5537866353988647
+Validation accuracy at epoch 221: 0.8363047242164612
+[I] Validating at epoch 221 finished in 3.136 s.
+[I] Epoch 222 :  started.
+Training loss at step 0: 0.000292508106213063, accuracy: 1.0
+Training loss at step 100: 0.001447903923690319, accuracy: 0.999690592288971
+Training loss at step 200: 0.0010647716699168086, accuracy: 0.9998445510864258
+Training loss at step 300: 0.0011806485708802938, accuracy: 0.9997923374176025
+Training loss at epoch 222: 0.001150231808423996
+Training accuracy at epoch 222: 0.999804675579071
+[I] Epoch 222 :  finished in 42.681 s.
+[I] Validating at epoch 222 started.
+Validation loss at epoch 222: 1.554911732673645
+Validation accuracy at epoch 222: 0.838735818862915
+[I] Validating at epoch 222 finished in 3.109 s.
+[I] Epoch 223 :  started.
+Training loss at step 0: 0.000818421714939177, accuracy: 1.0
+Training loss at step 100: 0.001993467565625906, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0014322811039164662, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0016069387784227729, accuracy: 0.9991694092750549
+Training loss at epoch 223: 0.0015284671681001782
+Training accuracy at epoch 223: 0.999218761920929
+[I] Epoch 223 :  finished in 42.514 s.
+[I] Validating at epoch 223 started.
+Validation loss at epoch 223: 1.5498871803283691
+Validation accuracy at epoch 223: 0.8371150493621826
+[I] Validating at epoch 223 finished in 3.131 s.
+[I] Epoch 224 :  started.
+Training loss at step 0: 0.00013069641136098653, accuracy: 1.0
+Training loss at step 100: 0.0017227004282176495, accuracy: 0.999690592288971
+Training loss at step 200: 0.0018056432018056512, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0015896374825388193, accuracy: 0.9994809031486511
+Training loss at epoch 224: 0.001563820755109191
+Training accuracy at epoch 224: 0.99951171875
+[I] Epoch 224 :  finished in 42.752 s.
+[I] Validating at epoch 224 started.
+Validation loss at epoch 224: 1.519336223602295
+Validation accuracy at epoch 224: 0.8403565883636475
+[I] Validating at epoch 224 finished in 3.167 s.
+[I] Epoch 225 :  started.
+Training loss at step 0: 0.00015127711230888963, accuracy: 1.0
+Training loss at step 100: 0.0008021041285246611, accuracy: 0.999690592288971
+Training loss at step 200: 0.0012813195353373885, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0011924501741304994, accuracy: 0.9996885657310486
+Training loss at epoch 225: 0.0011370873544365168
+Training accuracy at epoch 225: 0.999707043170929
+[I] Epoch 225 :  finished in 42.039 s.
+[I] Validating at epoch 225 started.
+Validation loss at epoch 225: 1.5250163078308105
+Validation accuracy at epoch 225: 0.8399513959884644
+[I] Validating at epoch 225 finished in 3.136 s.
+[I] Epoch 226 :  started.
+Training loss at step 0: 0.0005195261328481138, accuracy: 1.0
+Training loss at step 100: 0.0008162960293702781, accuracy: 1.0
+Training loss at step 200: 0.0008344385423697531, accuracy: 1.0
+Training loss at step 300: 0.0010202752891927958, accuracy: 0.9997923374176025
+Training loss at epoch 226: 0.0011726717930287123
+Training accuracy at epoch 226: 0.999707043170929
+[I] Epoch 226 :  finished in 42.562 s.
+[I] Validating at epoch 226 started.
+Validation loss at epoch 226: 1.5323723554611206
+Validation accuracy at epoch 226: 0.8395462036132812
+[I] Validating at epoch 226 finished in 3.092 s.
+[I] Epoch 227 :  started.
+Training loss at step 0: 0.0001832052948884666, accuracy: 1.0
+Training loss at step 100: 0.00038549123564735055, accuracy: 1.0
+Training loss at step 200: 0.0008666037465445697, accuracy: 0.9998445510864258
+Training loss at step 300: 0.0007450059056282043, accuracy: 0.9998961687088013
+Training loss at epoch 227: 0.0007206672453321517
+Training accuracy at epoch 227: 0.9999023675918579
+[I] Epoch 227 :  finished in 42.370 s.
+[I] Validating at epoch 227 started.
+Validation loss at epoch 227: 1.5216782093048096
+Validation accuracy at epoch 227: 0.8427876830101013
+[I] Validating at epoch 227 finished in 3.127 s.
+[I] Epoch 228 :  started.
+Training loss at step 0: 4.0506354707758874e-05, accuracy: 1.0
+Training loss at step 100: 0.000997644616290927, accuracy: 0.999690592288971
+Training loss at step 200: 0.0013163527473807335, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0013595045311376452, accuracy: 0.9994809031486511
+Training loss at epoch 228: 0.0014219916192814708
+Training accuracy at epoch 228: 0.9994140863418579
+[I] Epoch 228 :  finished in 42.627 s.
+[I] Validating at epoch 228 started.
+Validation loss at epoch 228: 1.5126649141311646
+Validation accuracy at epoch 228: 0.8375202417373657
+[I] Validating at epoch 228 finished in 3.145 s.
+[I] Epoch 229 :  started.
+Training loss at step 0: 7.978262146934867e-05, accuracy: 1.0
+Training loss at step 100: 0.0004480745701584965, accuracy: 1.0
+Training loss at step 200: 0.0007987330318428576, accuracy: 0.9998445510864258
+Training loss at step 300: 0.0009896282572299242, accuracy: 0.9996885657310486
+Training loss at epoch 229: 0.001105277449823916
+Training accuracy at epoch 229: 0.9996093511581421
+[I] Epoch 229 :  finished in 42.788 s.
+[I] Validating at epoch 229 started.
+Validation loss at epoch 229: 1.5208708047866821
+Validation accuracy at epoch 229: 0.8371150493621826
+[I] Validating at epoch 229 finished in 3.114 s.
+[I] Epoch 230 :  started.
+Training loss at step 0: 5.210617382545024e-05, accuracy: 1.0
+Training loss at step 100: 0.000993198947981, accuracy: 0.999690592288971
+Training loss at step 200: 0.0010299024870619178, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0011972361244261265, accuracy: 0.9993770718574524
+Training loss at epoch 230: 0.001231048139743507
+Training accuracy at epoch 230: 0.9994140863418579
+[I] Epoch 230 :  finished in 42.522 s.
+[I] Validating at epoch 230 started.
+Validation loss at epoch 230: 1.5367765426635742
+Validation accuracy at epoch 230: 0.8367098569869995
+[I] Validating at epoch 230 finished in 3.133 s.
+[I] Epoch 231 :  started.
+Training loss at step 0: 0.0006608531111851335, accuracy: 1.0
+Training loss at step 100: 0.0034239538945257664, accuracy: 0.9990717768669128
+Training loss at step 200: 0.002615201286971569, accuracy: 0.9990671873092651
+Training loss at step 300: 0.001986568095162511, accuracy: 0.9992732405662537
+Training loss at epoch 231: 0.0020673791877925396
+Training accuracy at epoch 231: 0.999218761920929
+[I] Epoch 231 :  finished in 42.757 s.
+[I] Validating at epoch 231 started.
+Validation loss at epoch 231: 1.5591624975204468
+Validation accuracy at epoch 231: 0.8395462036132812
+[I] Validating at epoch 231 finished in 3.150 s.
+[I] Epoch 232 :  started.
+Training loss at step 0: 0.00016662861162330955, accuracy: 1.0
+Training loss at step 100: 0.001124305767007172, accuracy: 0.999690592288971
+Training loss at step 200: 0.0008685361826792359, accuracy: 0.9998445510864258
+Training loss at step 300: 0.0011961170239374042, accuracy: 0.9995847344398499
+Training loss at epoch 232: 0.0012489341897889972
+Training accuracy at epoch 232: 0.9996093511581421
+[I] Epoch 232 :  finished in 42.750 s.
+[I] Validating at epoch 232 started.
+Validation loss at epoch 232: 1.5337233543395996
+Validation accuracy at epoch 232: 0.8431928753852844
+[I] Validating at epoch 232 finished in 3.124 s.
+[I] Epoch 233 :  started.
+Training loss at step 0: 9.050981316249818e-05, accuracy: 1.0
+Training loss at step 100: 0.0009924754267558455, accuracy: 0.999690592288971
+Training loss at step 200: 0.0008252972620539367, accuracy: 0.9998445510864258
+Training loss at step 300: 0.0007935460307635367, accuracy: 0.9997923374176025
+Training loss at epoch 233: 0.0008303747745230794
+Training accuracy at epoch 233: 0.999804675579071
+[I] Epoch 233 :  finished in 42.607 s.
+[I] Validating at epoch 233 started.
+Validation loss at epoch 233: 1.5404717922210693
+Validation accuracy at epoch 233: 0.8399513959884644
+[I] Validating at epoch 233 finished in 3.143 s.
+[I] Epoch 234 :  started.
+Training loss at step 0: 0.0004732885572593659, accuracy: 1.0
+Training loss at step 100: 0.0007486059912480414, accuracy: 0.999690592288971
+Training loss at step 200: 0.0010347904171794653, accuracy: 0.9998445510864258
+Training loss at step 300: 0.000828093325253576, accuracy: 0.9998961687088013
+Training loss at epoch 234: 0.0007909334963187575
+Training accuracy at epoch 234: 0.9999023675918579
+[I] Epoch 234 :  finished in 42.555 s.
+[I] Validating at epoch 234 started.
+Validation loss at epoch 234: 1.5496835708618164
+Validation accuracy at epoch 234: 0.8423824906349182
+[I] Validating at epoch 234 finished in 3.156 s.
+[I] Epoch 235 :  started.
+Training loss at step 0: 6.705096166115254e-05, accuracy: 1.0
+Training loss at step 100: 0.0009280787198804319, accuracy: 0.999690592288971
+Training loss at step 200: 0.000901381834410131, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0010815579444169998, accuracy: 0.9994809031486511
+Training loss at epoch 235: 0.0010344632901251316
+Training accuracy at epoch 235: 0.99951171875
+[I] Epoch 235 :  finished in 42.707 s.
+[I] Validating at epoch 235 started.
+Validation loss at epoch 235: 1.5303277969360352
+Validation accuracy at epoch 235: 0.838735818862915
+[I] Validating at epoch 235 finished in 3.164 s.
+[I] Epoch 236 :  started.
+Training loss at step 0: 5.0352857215330005e-05, accuracy: 1.0
+Training loss at step 100: 0.001175181707367301, accuracy: 0.999690592288971
+Training loss at step 200: 0.0012087547220289707, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0011595941614359617, accuracy: 0.9997923374176025
+Training loss at epoch 236: 0.0011586478212848306
+Training accuracy at epoch 236: 0.999804675579071
+[I] Epoch 236 :  finished in 42.550 s.
+[I] Validating at epoch 236 started.
+Validation loss at epoch 236: 1.5843627452850342
+Validation accuracy at epoch 236: 0.8379254341125488
+[I] Validating at epoch 236 finished in 3.079 s.
+[I] Epoch 237 :  started.
+Training loss at step 0: 0.00022099970374256372, accuracy: 1.0
+Training loss at step 100: 0.003393776249140501, accuracy: 0.9993811845779419
+Training loss at step 200: 0.002428561681881547, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0018828677712008357, accuracy: 0.9995847344398499
+Training loss at epoch 237: 0.001796299242414534
+Training accuracy at epoch 237: 0.9996093511581421
+[I] Epoch 237 :  finished in 42.393 s.
+[I] Validating at epoch 237 started.
+Validation loss at epoch 237: 1.5468699932098389
+Validation accuracy at epoch 237: 0.8444084525108337
+[I] Validating at epoch 237 finished in 3.136 s.
+[I] Epoch 238 :  started.
+Training loss at step 0: 0.03395930677652359, accuracy: 0.96875
+Training loss at step 100: 0.0008983973530121148, accuracy: 0.999690592288971
+Training loss at step 200: 0.0008682730258442461, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0008711258415132761, accuracy: 0.9996885657310486
+Training loss at epoch 238: 0.0008248172816820443
+Training accuracy at epoch 238: 0.999707043170929
+[I] Epoch 238 :  finished in 42.157 s.
+[I] Validating at epoch 238 started.
+Validation loss at epoch 238: 1.5603867769241333
+Validation accuracy at epoch 238: 0.8423824906349182
+[I] Validating at epoch 238 finished in 3.118 s.
+[I] Epoch 239 :  started.
+Training loss at step 0: 5.861015961272642e-05, accuracy: 1.0
+Training loss at step 100: 0.0007422763155773282, accuracy: 0.999690592288971
+Training loss at step 200: 0.0007646112935617566, accuracy: 0.9998445510864258
+Training loss at step 300: 0.0006518596201203763, accuracy: 0.9998961687088013
+Training loss at epoch 239: 0.0006444281316362321
+Training accuracy at epoch 239: 0.9999023675918579
+[I] Epoch 239 :  finished in 42.163 s.
+[I] Validating at epoch 239 started.
+Validation loss at epoch 239: 1.5510072708129883
+Validation accuracy at epoch 239: 0.8435980677604675
+[I] Validating at epoch 239 finished in 3.046 s.
+[I] Epoch 240 :  started.
+Training loss at step 0: 2.89459821942728e-05, accuracy: 1.0
+Training loss at step 100: 0.0008296740124933422, accuracy: 0.999690592288971
+Training loss at step 200: 0.0009798008250072598, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0013938973424956203, accuracy: 0.9993770718574524
+Training loss at epoch 240: 0.0014185277977958322
+Training accuracy at epoch 240: 0.999316394329071
+[I] Epoch 240 :  finished in 42.329 s.
+[I] Validating at epoch 240 started.
+Validation loss at epoch 240: 1.610555648803711
+Validation accuracy at epoch 240: 0.8338735699653625
+[I] Validating at epoch 240 finished in 3.116 s.
+[I] Epoch 241 :  started.
+Training loss at step 0: 0.00024729984579607844, accuracy: 1.0
+Training loss at step 100: 0.0009950080420821905, accuracy: 0.9993811845779419
+Training loss at step 200: 0.0006930666277185082, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0006633598241023719, accuracy: 0.9996885657310486
+Training loss at epoch 241: 0.0008290793048217893
+Training accuracy at epoch 241: 0.9996093511581421
+[I] Epoch 241 :  finished in 42.422 s.
+[I] Validating at epoch 241 started.
+Validation loss at epoch 241: 1.5849472284317017
+Validation accuracy at epoch 241: 0.8395462036132812
+[I] Validating at epoch 241 finished in 3.154 s.
+[I] Epoch 242 :  started.
+Training loss at step 0: 0.00010032738646259531, accuracy: 1.0
+Training loss at step 100: 0.0024406348820775747, accuracy: 0.9990717768669128
+Training loss at step 200: 0.0018856829265132546, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0014478160301223397, accuracy: 0.9995847344398499
+Training loss at epoch 242: 0.0013743570307269692
+Training accuracy at epoch 242: 0.9996093511581421
+[I] Epoch 242 :  finished in 42.532 s.
+[I] Validating at epoch 242 started.
+Validation loss at epoch 242: 1.585943341255188
+Validation accuracy at epoch 242: 0.835494339466095
+[I] Validating at epoch 242 finished in 3.114 s.
+[I] Epoch 243 :  started.
+Training loss at step 0: 5.4576648835791275e-05, accuracy: 1.0
+Training loss at step 100: 0.0008486752049066126, accuracy: 0.999690592288971
+Training loss at step 200: 0.0008020007517188787, accuracy: 0.9996890425682068
+Training loss at step 300: 0.001227066619321704, accuracy: 0.9995847344398499
+Training loss at epoch 243: 0.0012492603855207562
+Training accuracy at epoch 243: 0.99951171875
+[I] Epoch 243 :  finished in 42.306 s.
+[I] Validating at epoch 243 started.
+Validation loss at epoch 243: 1.5858724117279053
+Validation accuracy at epoch 243: 0.8358995318412781
+[I] Validating at epoch 243 finished in 3.137 s.
+[I] Epoch 244 :  started.
+Training loss at step 0: 6.592788122361526e-05, accuracy: 1.0
+Training loss at step 100: 0.0006913126562722027, accuracy: 1.0
+Training loss at step 200: 0.0012848310871049762, accuracy: 0.9995335936546326
+Training loss at step 300: 0.0013483244692906737, accuracy: 0.9994809031486511
+Training loss at epoch 244: 0.00129356374964118
+Training accuracy at epoch 244: 0.99951171875
+[I] Epoch 244 :  finished in 42.506 s.
+[I] Validating at epoch 244 started.
+Validation loss at epoch 244: 1.5780730247497559
+Validation accuracy at epoch 244: 0.8395462036132812
+[I] Validating at epoch 244 finished in 3.125 s.
+[I] Epoch 245 :  started.
+Training loss at step 0: 8.374929166166112e-05, accuracy: 1.0
+Training loss at step 100: 0.0011916079092770815, accuracy: 0.999690592288971
+Training loss at step 200: 0.0013659459073096514, accuracy: 0.9996890425682068
+Training loss at step 300: 0.001268886961042881, accuracy: 0.9996885657310486
+Training loss at epoch 245: 0.0012573713902384043
+Training accuracy at epoch 245: 0.999707043170929
+[I] Epoch 245 :  finished in 42.404 s.
+[I] Validating at epoch 245 started.
+Validation loss at epoch 245: 1.5586318969726562
+Validation accuracy at epoch 245: 0.8427876830101013
+[I] Validating at epoch 245 finished in 3.130 s.
+[I] Epoch 246 :  started.
+Training loss at step 0: 0.0018801598343998194, accuracy: 1.0
+Training loss at step 100: 0.00038454047171399, accuracy: 1.0
+Training loss at step 200: 0.0008677282021380961, accuracy: 0.9996890425682068
+Training loss at step 300: 0.0011765895178541541, accuracy: 0.9994809031486511
+Training loss at epoch 246: 0.001166615984402597
+Training accuracy at epoch 246: 0.99951171875
+[I] Epoch 246 :  finished in 42.532 s.
+[I] Validating at epoch 246 started.
+Validation loss at epoch 246: 1.5797475576400757
+Validation accuracy at epoch 246: 0.8435980677604675
+[I] Validating at epoch 246 finished in 3.122 s.
+[I] Epoch 247 :  started.
+Training loss at step 0: 0.0021787662990391254, accuracy: 1.0
+Training loss at step 100: 0.002568252384662628, accuracy: 0.9981435537338257
+Training loss at step 200: 0.002154803369194269, accuracy: 0.9987562298774719
+Training loss at step 300: 0.0015864840243011713, accuracy: 0.9991694092750549
+Training loss at epoch 247: 0.0015038367127999663
+Training accuracy at epoch 247: 0.999218761920929
+[I] Epoch 247 :  finished in 42.570 s.
+[I] Validating at epoch 247 started.
+Validation loss at epoch 247: 1.587602138519287
+Validation accuracy at epoch 247: 0.8391410112380981
+[I] Validating at epoch 247 finished in 3.149 s.
+[I] Epoch 248 :  started.
+Training loss at step 0: 6.942908657947555e-05, accuracy: 1.0
+Training loss at step 100: 0.0014577176189050078, accuracy: 0.9987623691558838
+Training loss at step 200: 0.0012588724493980408, accuracy: 0.9992226362228394
+Training loss at step 300: 0.0010192806366831064, accuracy: 0.9993770718574524
+Training loss at epoch 248: 0.0009686498087830842
+Training accuracy at epoch 248: 0.9994140863418579
+[I] Epoch 248 :  finished in 42.156 s.
+[I] Validating at epoch 248 started.
+Validation loss at epoch 248: 1.5807838439941406
+Validation accuracy at epoch 248: 0.8383306264877319
+[I] Validating at epoch 248 finished in 3.143 s.
+[I] Epoch 249 :  started.
+Training loss at step 0: 0.00014358837506733835, accuracy: 1.0
+Training loss at step 100: 0.0006224563694559038, accuracy: 1.0
+Training loss at step 200: 0.001418783445842564, accuracy: 0.9993780851364136
+Training loss at step 300: 0.0011157019762322307, accuracy: 0.9995847344398499
+Training loss at epoch 249: 0.001100147725082934
+Training accuracy at epoch 249: 0.9996093511581421
+[I] Epoch 249 :  finished in 42.749 s.
+[I] Validating at epoch 249 started.
+Validation loss at epoch 249: 1.602914810180664
+Validation accuracy at epoch 249: 0.8379254341125488
+[I] Validating at epoch 249 finished in 3.152 s.
+[I] Start Training... finished in 11402.535 s.
+(tf2) [01;32mubuntu@3173d0a93008[00m:[01;34m~/namnh77[00m$ 
